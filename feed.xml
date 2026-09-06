@@ -5,8 +5,64 @@
     <link>https://nerfherder16.github.io/trending-ai-feed/</link>
     <description>Recently-created, fast-rising GitHub repos across LLM/GenAI, AI tooling, dev tools, and infrastructure. Refreshed daily.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:24:59 +0000</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>pierrenade/short-video-generator-AI — ★465</title>
+      <link>https://github.com/pierrenade/short-video-generator-AI</link>
+      <guid isPermaLink="true">https://github.com/pierrenade/short-video-generator-AI</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content. (★465, Python, created 2026-09-05)</description>
+    </item>
+    <item>
+      <title>3641397194-wq/gpt6-Astra — ★444</title>
+      <link>https://github.com/3641397194-wq/gpt6-Astra</link>
+      <guid isPermaLink="true">https://github.com/3641397194-wq/gpt6-Astra</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] gpt6 Astra-claude-grok4.6-deepseekv4pro-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台 (★444, JavaScript, created 2026-08-17)</description>
+    </item>
+    <item>
+      <title>jinzijian/EvoTrace — ★245</title>
+      <link>https://github.com/jinzijian/EvoTrace</link>
+      <guid isPermaLink="true">https://github.com/jinzijian/EvoTrace</guid>
+      <category>Dev tools</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets. (★245, Python, created 2026-08-19)</description>
+    </item>
+    <item>
+      <title>TrenTorch/TrenTorch — ★92</title>
+      <link>https://github.com/TrenTorch/TrenTorch</link>
+      <guid isPermaLink="true">https://github.com/TrenTorch/TrenTorch</guid>
+      <category>Dev tools</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Learn PyTorch by building your own. (inspired from Harvard's TinyTorch) (★92, Python, created 2026-08-21)</description>
+    </item>
+    <item>
+      <title>Queena34/StudyPilot — ★42</title>
+      <link>https://github.com/Queena34/StudyPilot</link>
+      <guid isPermaLink="true">https://github.com/Queena34/StudyPilot</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Bilingual AI study coach that answers only from your own course material, with citations (★42, Python, created 2026-08-25)</description>
+    </item>
+    <item>
+      <title>yannickuhrig1/plugarr — ★40</title>
+      <link>https://github.com/yannickuhrig1/plugarr</link>
+      <guid isPermaLink="true">https://github.com/yannickuhrig1/plugarr</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Installe ET cable automatiquement une stack media *arr : cles API echangees, indexeurs synchronises, profils de qualite TRaSH poses. Assistant TUI, page d'acces et d'administration. (★40, Python, created 2026-09-01)</description>
+    </item>
+    <item>
+      <title>keelab/keelith — ★30</title>
+      <link>https://github.com/keelab/keelith</link>
+      <guid isPermaLink="true">https://github.com/keelab/keelith</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] A production-oriented Go framework for distributed applications with explicit lifecycle, transport, governance, observability, and contract-first tooling. (★30, Go, created 2026-08-18)</description>
+    </item>
     <item>
       <title>Hoylon/peerbridge-mcp — ★238</title>
       <link>https://github.com/Hoylon/peerbridge-mcp</link>
@@ -16,60 +72,52 @@
       <description>[Dev tools] Local-first, auditable multi-agent control room for coding, review, evidence, and private remote work. (★238, Python, created 2026-08-17)</description>
     </item>
     <item>
-      <title>zachahn/vomit — ★189</title>
-      <link>https://github.com/zachahn/vomit</link>
-      <guid isPermaLink="true">https://github.com/zachahn/vomit</guid>
-      <category>AI tooling</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless (★189, Go, created 2026-08-15)</description>
-    </item>
-    <item>
-      <title>naw103/foremerge — ★159</title>
+      <title>naw103/foremerge — ★160</title>
       <link>https://github.com/naw103/foremerge</link>
       <guid isPermaLink="true">https://github.com/naw103/foremerge</guid>
       <category>Dev tools</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. (★159, Rust, created 2026-08-21)</description>
+      <description>[Dev tools] Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. (★160, Rust, created 2026-08-21)</description>
     </item>
     <item>
-      <title>vicoa-ai/vicoa — ★103</title>
+      <title>vicoa-ai/vicoa — ★125</title>
       <link>https://github.com/vicoa-ai/vicoa</link>
       <guid isPermaLink="true">https://github.com/vicoa-ai/vicoa</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable. (★103, Python, created 2026-08-28)</description>
+      <description>[Infrastructure] Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable. (★125, Python, created 2026-08-28)</description>
     </item>
     <item>
-      <title>Stupidoodle/swissdevjobs-cli — ★96</title>
-      <link>https://github.com/Stupidoodle/swissdevjobs-cli</link>
-      <guid isPermaLink="true">https://github.com/Stupidoodle/swissdevjobs-cli</guid>
-      <category>Dev tools</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Search &amp; apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin (★96, Python, created 2026-08-24)</description>
-    </item>
-    <item>
-      <title>primorLee/agent-workflow-platform — ★96</title>
+      <title>primorLee/agent-workflow-platform — ★107</title>
       <link>https://github.com/primorLee/agent-workflow-platform</link>
       <guid isPermaLink="true">https://github.com/primorLee/agent-workflow-platform</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Open-source starter stack for Agent product developers: desktop client, control plane, workers, multi-agent workflows, admin, mobile, and operations. (★96, TypeScript, created 2026-08-22)</description>
+      <description>[Infrastructure] Open-source starter stack for Agent product developers: desktop client, control plane, workers, multi-agent workflows, admin, mobile, and operations. (★107, TypeScript, created 2026-08-22)</description>
     </item>
     <item>
-      <title>Omni-Scientist/Awesome-AI-Scientist — ★91</title>
+      <title>Omni-Scientist/Awesome-AI-Scientist — ★102</title>
       <link>https://github.com/Omni-Scientist/Awesome-AI-Scientist</link>
       <guid isPermaLink="true">https://github.com/Omni-Scientist/Awesome-AI-Scientist</guid>
       <category>LLM / GenAI</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms. (★91, Python, created 2026-08-24)</description>
+      <description>[LLM / GenAI] 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms. (★102, Python, created 2026-08-24)</description>
     </item>
     <item>
-      <title>keli-wen/agy-staff — ★91</title>
+      <title>Stupidoodle/swissdevjobs-cli — ★97</title>
+      <link>https://github.com/Stupidoodle/swissdevjobs-cli</link>
+      <guid isPermaLink="true">https://github.com/Stupidoodle/swissdevjobs-cli</guid>
+      <category>Dev tools</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Search &amp; apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin (★97, Python, created 2026-08-24)</description>
+    </item>
+    <item>
+      <title>keli-wen/agy-staff — ★95</title>
       <link>https://github.com/keli-wen/agy-staff</link>
       <guid isPermaLink="true">https://github.com/keli-wen/agy-staff</guid>
       <category>Dev tools</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex. (★91, JavaScript, created 2026-08-18)</description>
+      <description>[Dev tools] Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code and OpenAI Codex. (★95, JavaScript, created 2026-08-18)</description>
     </item>
     <item>
       <title>p10node/k10s — ★89</title>
@@ -80,84 +128,76 @@
       <description>[Dev tools] Kubernetes TUI you can click. Instant search, logs/exec/port-forward, 7 themes, context-aware AI. Single Go binary. (★89, Go, created 2026-08-26)</description>
     </item>
     <item>
-      <title>Encephos/markdown-link-resolver — ★51</title>
+      <title>Encephos/markdown-link-resolver — ★55</title>
       <link>https://github.com/Encephos/markdown-link-resolver</link>
       <guid isPermaLink="true">https://github.com/Encephos/markdown-link-resolver</guid>
       <category>LLM / GenAI</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] A zero-dependency Python tool to resolve relative Markdown links and inline images as Base64 strings for RAG and Multimodal LLMs. (★51, Python, created 2026-08-25)</description>
+      <description>[LLM / GenAI] A zero-dependency Python tool to resolve relative Markdown links and inline images as Base64 strings for RAG and Multimodal LLMs. (★55, Python, created 2026-08-25)</description>
     </item>
     <item>
-      <title>lna-lab/distill-kura — ★41</title>
-      <link>https://github.com/lna-lab/distill-kura</link>
-      <guid isPermaLink="true">https://github.com/lna-lab/distill-kura</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server. (★41, Python, created 2026-08-21)</description>
-    </item>
-    <item>
-      <title>dataPro-lgtm/fde-interview-fieldbook — ★41</title>
-      <link>https://github.com/dataPro-lgtm/fde-interview-fieldbook</link>
-      <guid isPermaLink="true">https://github.com/dataPro-lgtm/fde-interview-fieldbook</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Source-backed, production-first FDE interview fieldbook with cases, scorecards, and current role research. (★41, Python, created 2026-08-21)</description>
-    </item>
-    <item>
-      <title>truespar/paddock — ★38</title>
+      <title>truespar/paddock — ★47</title>
       <link>https://github.com/truespar/paddock</link>
       <guid isPermaLink="true">https://github.com/truespar/paddock</guid>
       <category>AI tooling</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio (★38, Rust, created 2026-09-03)</description>
+      <description>[AI tooling] Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio (★47, Rust, created 2026-09-03)</description>
     </item>
     <item>
-      <title>MangoGreenTeaz/FaultLens — ★33</title>
+      <title>lna-lab/distill-kura — ★44</title>
+      <link>https://github.com/lna-lab/distill-kura</link>
+      <guid isPermaLink="true">https://github.com/lna-lab/distill-kura</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server. (★44, Python, created 2026-08-21)</description>
+    </item>
+    <item>
+      <title>MangoGreenTeaz/FaultLens — ★40</title>
       <link>https://github.com/MangoGreenTeaz/FaultLens</link>
       <guid isPermaLink="true">https://github.com/MangoGreenTeaz/FaultLens</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Local-first, explainable log incident diagnosis for developers and CI/CD. (★33, Go, created 2026-08-31)</description>
+      <description>[Infrastructure] Local-first, explainable log incident diagnosis for developers and CI/CD. (★40, Go, created 2026-08-31)</description>
     </item>
     <item>
-      <title>grpcer/ownmem — ★249</title>
+      <title>grpcer/ownmem — ★266</title>
       <link>https://github.com/grpcer/ownmem</link>
       <guid isPermaLink="true">https://github.com/grpcer/ownmem</guid>
       <category>Dev tools</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Open-source, Git-native memory for AI coding agents — deterministic local recall for Claude Code, Codex, Cursor, Gemini CLI, and compatible tools. (★249, JavaScript, created 2026-08-16)</description>
+      <description>[Dev tools] Open-source, Git-native memory for AI coding agents — deterministic local recall for Claude Code, Codex, Cursor, Gemini CLI, and compatible tools. (★266, JavaScript, created 2026-08-16)</description>
     </item>
     <item>
-      <title>pax-beehive/dsh-hub-cli — ★222</title>
+      <title>pax-beehive/dsh-hub-cli — ★231</title>
       <link>https://github.com/pax-beehive/dsh-hub-cli</link>
       <guid isPermaLink="true">https://github.com/pax-beehive/dsh-hub-cli</guid>
       <category>Dev tools</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub (★222, TypeScript, created 2026-08-25)</description>
+      <description>[Dev tools] Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub (★231, TypeScript, created 2026-08-25)</description>
     </item>
     <item>
-      <title>Agenta-AI/awesome-ai-agent-platforms — ★185</title>
+      <title>Agenta-AI/awesome-ai-agent-platforms — ★218</title>
       <link>https://github.com/Agenta-AI/awesome-ai-agent-platforms</link>
       <guid isPermaLink="true">https://github.com/Agenta-AI/awesome-ai-agent-platforms</guid>
       <category>Infrastructure</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses. (★185, Astro, created 2026-09-02)</description>
+      <description>[Infrastructure] A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses. (★218, Astro, created 2026-09-02)</description>
     </item>
     <item>
-      <title>crane-in-clear-sky/WorkWit-AI-Agent — ★99</title>
+      <title>crane-in-clear-sky/WorkWit-AI-Agent — ★100</title>
       <link>https://github.com/crane-in-clear-sky/WorkWit-AI-Agent</link>
       <guid isPermaLink="true">https://github.com/crane-in-clear-sky/WorkWit-AI-Agent</guid>
       <category>Infrastructure</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review &amp; resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose. (★99, Python, created 2026-08-20)</description>
+      <description>[Infrastructure] WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review &amp; resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose. (★100, Python, created 2026-08-20)</description>
     </item>
     <item>
-      <title>AbuZar-Ansarii/Needle — ★83</title>
+      <title>AbuZar-Ansarii/Needle — ★89</title>
       <link>https://github.com/AbuZar-Ansarii/Needle</link>
       <guid isPermaLink="true">https://github.com/AbuZar-Ansarii/Needle</guid>
       <category>LLM / GenAI</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely. (★83, Python, created 2026-08-30)</description>
+      <description>[LLM / GenAI] This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely. (★89, Python, created 2026-08-30)</description>
     </item>
     <item>
       <title>mpaymenremora/CacheCraft — ★38</title>
@@ -168,44 +208,44 @@
       <description>[Dev tools] Semantic cache strategy bench: replay recorded request traces through candidate caching policies and measure which one actually pays off. (★38, Python, created 2026-09-03)</description>
     </item>
     <item>
-      <title>repotracer/repotracer — ★31</title>
+      <title>repotracer/repotracer — ★33</title>
       <link>https://github.com/repotracer/repotracer</link>
       <guid isPermaLink="true">https://github.com/repotracer/repotracer</guid>
       <category>Dev tools</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Make your Codex subscription last up to 2.7x longer. Search with Luna, code with Sol. Native MCP server for OpenAI Codex. (★31, Rust, created 2026-08-23)</description>
+      <description>[Dev tools] Make your Codex subscription last up to 2.7x longer. Search with Luna, code with Sol. Native MCP server for OpenAI Codex. (★33, Rust, created 2026-08-23)</description>
     </item>
     <item>
-      <title>2akouwu/reverify — ★911</title>
+      <title>2akouwu/reverify — ★934</title>
       <link>https://github.com/2akouwu/reverify</link>
       <guid isPermaLink="true">https://github.com/2akouwu/reverify</guid>
       <category>LLM / GenAI</category>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI. (★911, Python, created 2026-08-31)</description>
+      <description>[LLM / GenAI] Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI. (★934, Python, created 2026-08-31)</description>
     </item>
     <item>
-      <title>kydlikebtc/awesome-grokbot — ★315</title>
+      <title>kydlikebtc/awesome-grokbot — ★327</title>
       <link>https://github.com/kydlikebtc/awesome-grokbot</link>
       <guid isPermaLink="true">https://github.com/kydlikebtc/awesome-grokbot</guid>
       <category>LLM / GenAI</category>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site. (★315, Python, created 2026-09-01)</description>
+      <description>[LLM / GenAI] 532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site. (★327, Python, created 2026-09-01)</description>
     </item>
     <item>
-      <title>Continuum-AI-Corp/OrcaReplay — ★103</title>
+      <title>Continuum-AI-Corp/OrcaReplay — ★126</title>
       <link>https://github.com/Continuum-AI-Corp/OrcaReplay</link>
       <guid isPermaLink="true">https://github.com/Continuum-AI-Corp/OrcaReplay</guid>
       <category>LLM / GenAI</category>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team. (★103, TypeScript, created 2026-08-29)</description>
+      <description>[LLM / GenAI] OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team. (★126, TypeScript, created 2026-08-29)</description>
     </item>
     <item>
-      <title>jzjzzzzzzz/agent-me — ★71</title>
+      <title>jzjzzzzzzz/agent-me — ★92</title>
       <link>https://github.com/jzjzzzzzzz/agent-me</link>
       <guid isPermaLink="true">https://github.com/jzjzzzzzzz/agent-me</guid>
       <category>LLM / GenAI</category>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin. (★71, Python, created 2026-08-27)</description>
+      <description>[LLM / GenAI] Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin. (★92, Python, created 2026-08-27)</description>
     </item>
     <item>
       <title>Player-YN/PawWork_ZhuaZhua — ★1.3k</title>
@@ -216,44 +256,44 @@
       <description>[LLM / GenAI] Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server. (★1.3k, JavaScript, created 2026-08-28)</description>
     </item>
     <item>
-      <title>aminkheddache-dotcom/Ptero — ★553</title>
+      <title>aminkheddache-dotcom/Ptero — ★630</title>
       <link>https://github.com/aminkheddache-dotcom/Ptero</link>
       <guid isPermaLink="true">https://github.com/aminkheddache-dotcom/Ptero</guid>
       <category>AI tooling</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] AI Chat with powerful models for free (★553, PHP, created 2026-08-18)</description>
+      <description>[AI tooling] AI Chat with powerful models for free (★630, PHP, created 2026-08-18)</description>
     </item>
     <item>
-      <title>Human-Agent-Society/reef — ★471</title>
+      <title>Human-Agent-Society/reef — ★547</title>
       <link>https://github.com/Human-Agent-Society/reef</link>
       <guid isPermaLink="true">https://github.com/Human-Agent-Society/reef</guid>
       <category>LLM / GenAI</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Continual learning infra for self-improving agents (★471, Python, created 2026-08-31)</description>
+      <description>[LLM / GenAI] Continual learning infra for self-improving agents (★547, Python, created 2026-08-31)</description>
     </item>
     <item>
-      <title>S1N6H/pentest-harness — ★335</title>
+      <title>S1N6H/pentest-harness — ★338</title>
       <link>https://github.com/S1N6H/pentest-harness</link>
       <guid isPermaLink="true">https://github.com/S1N6H/pentest-harness</guid>
       <category>LLM / GenAI</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local. (★335, TypeScript, created 2026-08-26)</description>
+      <description>[LLM / GenAI] Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local. (★338, TypeScript, created 2026-08-26)</description>
     </item>
     <item>
-      <title>tabtin-ai/TabTin — ★282</title>
+      <title>tabtin-ai/TabTin — ★296</title>
       <link>https://github.com/tabtin-ai/TabTin</link>
       <guid isPermaLink="true">https://github.com/tabtin-ai/TabTin</guid>
       <category>AI tooling</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] A workspace where people and multiple AI agents work together. (★282, TypeScript, created 2026-08-19)</description>
+      <description>[AI tooling] A workspace where people and multiple AI agents work together. (★296, TypeScript, created 2026-08-19)</description>
     </item>
     <item>
-      <title>Merit-Systems/OpenInstinct — ★271</title>
+      <title>Merit-Systems/OpenInstinct — ★279</title>
       <link>https://github.com/Merit-Systems/OpenInstinct</link>
       <guid isPermaLink="true">https://github.com/Merit-Systems/OpenInstinct</guid>
       <category>AI tooling</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] iMessage personal assistant + password vault (★271, TypeScript, created 2026-08-25)</description>
+      <description>[AI tooling] iMessage personal assistant + password vault (★279, TypeScript, created 2026-08-25)</description>
     </item>
     <item>
       <title>GraySilver/dsh-evolve-modes — ★207</title>
@@ -272,6 +312,14 @@
       <description>[Dev tools] Security testing that runs inside the coding agent you already use. Source-available, not open source. (★159, TypeScript, created 2026-08-19)</description>
     </item>
     <item>
+      <title>kyky2347/ALTA — ★157</title>
+      <link>https://github.com/kyky2347/ALTA</link>
+      <guid isPermaLink="true">https://github.com/kyky2347/ALTA</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Autonomous LLM Trading Asterism — research-only, evidence-first multi-agent opportunity discovery, audited Shadow expression, durable recovery, and a bilingual local operator console. (★157, Python, created 2026-08-27)</description>
+    </item>
+    <item>
       <title>panaversity/ksor — ★150</title>
       <link>https://github.com/panaversity/ksor</link>
       <guid isPermaLink="true">https://github.com/panaversity/ksor</guid>
@@ -280,28 +328,12 @@
       <description>[LLM / GenAI] KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents. It is a foundation of an AI-native knowledge platform. (★150, TypeScript, created 2026-08-17)</description>
     </item>
     <item>
-      <title>kyky2347/ALTA — ★127</title>
-      <link>https://github.com/kyky2347/ALTA</link>
-      <guid isPermaLink="true">https://github.com/kyky2347/ALTA</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Autonomous LLM Trading Asterism — research-only, evidence-first multi-agent opportunity discovery, audited Shadow expression, durable recovery, and a bilingual local operator console. (★127, Python, created 2026-08-27)</description>
-    </item>
-    <item>
-      <title>pictaria-ai/pictaria-server — ★120</title>
+      <title>pictaria-ai/pictaria-server — ★125</title>
       <link>https://github.com/pictaria-ai/pictaria-server</link>
       <guid isPermaLink="true">https://github.com/pictaria-ai/pictaria-server</guid>
       <category>Infrastructure</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Self-hosted companion server for Pictaria Frame, powered by your Immich library. (★120, JavaScript, created 2026-08-29)</description>
-    </item>
-    <item>
-      <title>shauryagangrade/awesome-ai-prompts — ★42</title>
-      <link>https://github.com/shauryagangrade/awesome-ai-prompts</link>
-      <guid isPermaLink="true">https://github.com/shauryagangrade/awesome-ai-prompts</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess (★42, Shell, created 2026-08-15)</description>
+      <description>[Infrastructure] Self-hosted companion server for Pictaria Frame, powered by your Immich library. (★125, JavaScript, created 2026-08-29)</description>
     </item>
     <item>
       <title>wangmiaozero/pi-harness — ★42</title>
@@ -312,52 +344,52 @@
       <description>[Dev tools] Visual desktop Harness &amp; control center for Pi Coding Agent — inspect runtime, context, tools &amp; sessions; manage models &amp; skills; browse files &amp; Git. Powered by Pi Agent Harness. (★42, TypeScript, created 2026-08-20)</description>
     </item>
     <item>
-      <title>EnricoFlammini/Dashboard_EERO — ★30</title>
+      <title>EnricoFlammini/Dashboard_EERO — ★31</title>
       <link>https://github.com/EnricoFlammini/Dashboard_EERO</link>
       <guid isPermaLink="true">https://github.com/EnricoFlammini/Dashboard_EERO</guid>
       <category>Infrastructure</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] No description. (★30, Python, created 2026-08-25)</description>
+      <description>[Infrastructure] No description. (★31, Python, created 2026-08-25)</description>
     </item>
     <item>
-      <title>panxunying/ai-coding-welfare — ★556</title>
+      <title>panxunying/ai-coding-welfare — ★571</title>
       <link>https://github.com/panxunying/ai-coding-welfare</link>
       <guid isPermaLink="true">https://github.com/panxunying/ai-coding-welfare</guid>
       <category>LLM / GenAI</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本 (★556, JavaScript, created 2026-08-21)</description>
+      <description>[LLM / GenAI] AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本 (★571, JavaScript, created 2026-08-21)</description>
     </item>
     <item>
-      <title>useagenthq/useagent — ★284</title>
+      <title>useagenthq/useagent — ★283</title>
       <link>https://github.com/useagenthq/useagent</link>
       <guid isPermaLink="true">https://github.com/useagenthq/useagent</guid>
       <category>AI tooling</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription. (★284, TypeScript, created 2026-08-29)</description>
+      <description>[AI tooling] The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription. (★283, TypeScript, created 2026-08-29)</description>
     </item>
     <item>
-      <title>abligail/narralume — ★110</title>
-      <link>https://github.com/abligail/narralume</link>
-      <guid isPermaLink="true">https://github.com/abligail/narralume</guid>
-      <category>Infrastructure</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。 (★110, TypeScript, created 2026-08-20)</description>
-    </item>
-    <item>
-      <title>ashutoshsinghpr7/wikiskill — ★109</title>
+      <title>ashutoshsinghpr7/wikiskill — ★116</title>
       <link>https://github.com/ashutoshsinghpr7/wikiskill</link>
       <guid isPermaLink="true">https://github.com/ashutoshsinghpr7/wikiskill</guid>
       <category>LLM / GenAI</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log. (★109, Python, created 2026-08-29)</description>
+      <description>[LLM / GenAI] WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log. (★116, Python, created 2026-08-29)</description>
     </item>
     <item>
-      <title>aafqaq/codex-lb-enhanced — ★64</title>
+      <title>abligail/narralume — ★111</title>
+      <link>https://github.com/abligail/narralume</link>
+      <guid isPermaLink="true">https://github.com/abligail/narralume</guid>
+      <category>Infrastructure</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。 (★111, TypeScript, created 2026-08-20)</description>
+    </item>
+    <item>
+      <title>aafqaq/codex-lb-enhanced — ★74</title>
       <link>https://github.com/aafqaq/codex-lb-enhanced</link>
       <guid isPermaLink="true">https://github.com/aafqaq/codex-lb-enhanced</guid>
       <category>Infrastructure</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Production-ready Codex-compatible account-pool gateway with seamless failover, full-session recovery, native quota headers, WebSocket/HTTP bridge, and observability. (★64, Python, created 2026-08-26)</description>
+      <description>[Infrastructure] Production-ready Codex-compatible account-pool gateway with seamless failover, full-session recovery, native quota headers, WebSocket/HTTP bridge, and observability. (★74, Python, created 2026-08-26)</description>
     </item>
     <item>
       <title>hashfunction/MarkuprPlus — ★62</title>
@@ -368,20 +400,20 @@
       <description>[Dev tools] Record your screen, narrate the bug, and hand your AI coding agent structured Markdown - one annotated screenshot per mark. Desktop app, CLI, and MCP server for Claude Code, Cursor, Codex, and Windsurf. On-device Whisper transcription, local-first, MIT. (★62, TypeScript, created 2026-08-17)</description>
     </item>
     <item>
-      <title>Tranz007/ux-skills — ★35</title>
+      <title>Tranz007/ux-skills — ★36</title>
       <link>https://github.com/Tranz007/ux-skills</link>
       <guid isPermaLink="true">https://github.com/Tranz007/ux-skills</guid>
       <category>LLM / GenAI</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Agent Skills for working UX designers. Challenge ideas, find blind spots, use the real design system, preserve evidence and decisions, and carry UX intent into engineering. (★35, Python, created 2026-08-20)</description>
+      <description>[LLM / GenAI] Agent Skills for working UX designers. Challenge ideas, find blind spots, use the real design system, preserve evidence and decisions, and carry UX intent into engineering. (★36, Python, created 2026-08-20)</description>
     </item>
     <item>
-      <title>yanliudesign/mono-color-skill — ★2.6k</title>
+      <title>yanliudesign/mono-color-skill — ★2.7k</title>
       <link>https://github.com/yanliudesign/mono-color-skill</link>
       <guid isPermaLink="true">https://github.com/yanliudesign/mono-color-skill</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (★2.6k, Python, created 2026-08-19)</description>
+      <description>[LLM / GenAI] One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (★2.7k, Python, created 2026-08-19)</description>
     </item>
     <item>
       <title>weiwei966/awesome-ai-harness — ★219</title>
@@ -392,20 +424,20 @@
       <description>[LLM / GenAI] The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文 (★219, —, created 2026-08-16)</description>
     </item>
     <item>
+      <title>rokbenko/quackd — ★164</title>
+      <link>https://github.com/rokbenko/quackd</link>
+      <guid isPermaLink="true">https://github.com/rokbenko/quackd</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] 🦆🧠 Give your small robot a brain. Tell a Microduck, an Open Duck Mini you built yourself, a Reachy Mini, a LeRobot arm or any ROS base what you want in human language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, memory between runs, flocks. (★164, Python, created 2026-08-28)</description>
+    </item>
+    <item>
       <title>Vuk97/forward-implementation-first — ★163</title>
       <link>https://github.com/Vuk97/forward-implementation-first</link>
       <guid isPermaLink="true">https://github.com/Vuk97/forward-implementation-first</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>[LLM / GenAI] Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents. (★163, Shell, created 2026-08-29)</description>
-    </item>
-    <item>
-      <title>rokbenko/quackd — ★158</title>
-      <link>https://github.com/rokbenko/quackd</link>
-      <guid isPermaLink="true">https://github.com/rokbenko/quackd</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 🦆🧠 Give your small robot a brain. Tell a Microduck, an Open Duck Mini you built yourself, a Reachy Mini, a LeRobot arm or any ROS base what you want in human language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, memory between runs, flocks. (★158, Python, created 2026-08-28)</description>
     </item>
     <item>
       <title>nwiizo/suiko — ★105</title>
@@ -416,20 +448,20 @@
       <description>[Dev tools] 日本語文書の自然さと読みやすさを再現可能に診断するRust CLI / Deterministic diagnostics for natural and readable Japanese writing (★105, Rust, created 2026-08-17)</description>
     </item>
     <item>
-      <title>sunyuzheng/lizheng-open-context — ★95</title>
+      <title>sunyuzheng/lizheng-open-context — ★97</title>
       <link>https://github.com/sunyuzheng/lizheng-open-context</link>
       <guid isPermaLink="true">https://github.com/sunyuzheng/lizheng-open-context</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Source-grounded public context for 立正: Superlinear posts, selected comments, YouTube, Public Axioms V1, and 《真本事》. (★95, Python, created 2026-08-29)</description>
+      <description>[LLM / GenAI] Source-grounded public context for 立正: Superlinear posts, selected comments, YouTube, Public Axioms V1, and 《真本事》. (★97, Python, created 2026-08-29)</description>
     </item>
     <item>
-      <title>roy-tong/AgentMeasure — ★82</title>
+      <title>roy-tong/AgentMeasure — ★91</title>
       <link>https://github.com/roy-tong/AgentMeasure</link>
       <guid isPermaLink="true">https://github.com/roy-tong/AgentMeasure</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Open measurement infrastructure for agent-facing software. Separate operations from attempts, evidence from inference, and usage from value. Reach → Choice → Use → Utility → Value. (★82, Python, created 2026-08-16)</description>
+      <description>[LLM / GenAI] Open measurement infrastructure for agent-facing software. Separate operations from attempts, evidence from inference, and usage from value. Reach → Choice → Use → Utility → Value. (★91, Python, created 2026-08-16)</description>
     </item>
     <item>
       <title>esperanza-volkov/confdiff — ★38</title>
@@ -448,44 +480,12 @@
       <description>[Infrastructure] Self-hosted sheet music server: organize, search, and practice from your own library — PDF reader plus interactive notation/tab rendering (★34, Python, created 2026-08-19)</description>
     </item>
     <item>
-      <title>xzf-thu/VoiceMem — ★724</title>
+      <title>xzf-thu/VoiceMem — ★791</title>
       <link>https://github.com/xzf-thu/VoiceMem</link>
       <guid isPermaLink="true">https://github.com/xzf-thu/VoiceMem</guid>
       <category>LLM / GenAI</category>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level. (★724, Python, created 2026-08-17)</description>
-    </item>
-    <item>
-      <title>hkqr/my-free-code — ★626</title>
-      <link>https://github.com/hkqr/my-free-code</link>
-      <guid isPermaLink="true">https://github.com/hkqr/my-free-code</guid>
-      <category>AI tooling</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support (★626, Python, created 2026-08-27)</description>
-    </item>
-    <item>
-      <title>OnlyTerp/opengrok — ★425</title>
-      <link>https://github.com/OnlyTerp/opengrok</link>
-      <guid isPermaLink="true">https://github.com/OnlyTerp/opengrok</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you. (★425, JavaScript, created 2026-08-27)</description>
-    </item>
-    <item>
-      <title>Thorsten02041973/robinhood-cli — ★129</title>
-      <link>https://github.com/Thorsten02041973/robinhood-cli</link>
-      <guid isPermaLink="true">https://github.com/Thorsten02041973/robinhood-cli</guid>
-      <category>Dev tools</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Robinhood Chain DeFi CLI (★129, TypeScript, created 2026-08-25)</description>
-    </item>
-    <item>
-      <title>jsdhwfmax/EvalForge — ★126</title>
-      <link>https://github.com/jsdhwfmax/EvalForge</link>
-      <guid isPermaLink="true">https://github.com/jsdhwfmax/EvalForge</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI. (★126, Python, created 2026-08-24)</description>
+      <description>[LLM / GenAI] Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level. (★791, Python, created 2026-08-17)</description>
     </item>
   </channel>
 </rss>
