@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12",
-  "generated": "2026-11-12 11:24 UTC",
+  "updated": "2026-11-13",
+  "generated": "2026-11-13 11:24 UTC",
   "window_days": 30,
   "buckets": [
     "LLM / GenAI",
@@ -10,11 +10,429 @@
   ],
   "repos": [
     {
+      "full_name": "kcgeekedup-hash/delta-force-trainer-tool",
+      "url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
+      "description": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
+      "language": "HTML",
+      "stars": 1197,
+      "topics": [
+        "automation",
+        "delta-force",
+        "delta-force-aim-assist",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts"
+      ],
+      "bucket": "Dev tools",
+      "created_at": "2026-11-06",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "Elegantic/designcenter-nx-desktop",
+      "url": "https://github.com/Elegantic/designcenter-nx-desktop",
+      "description": "Designcenter-NX: Full-Feature Desktop Installer for Immediate Deployment",
+      "language": "HTML",
+      "stars": 1182,
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "nx-cad",
+        "nxopen",
+        "open-source",
+        "python",
+        "scripts"
+      ],
+      "bucket": "Dev tools",
+      "created_at": "2026-11-06",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "description": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "language": "PHP",
+      "stars": 683,
+      "topics": [
+        "agpl",
+        "control-panel",
+        "devops",
+        "laravel",
+        "open-source",
+        "self-hosted",
+        "server-management",
+        "serveros"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-09",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "lwh0630/TokenBar",
+      "url": "https://github.com/lwh0630/TokenBar",
+      "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+      "language": "Dart",
+      "stars": 210,
+      "topics": [
+        "ai",
+        "android",
+        "claude",
+        "codex",
+        "cursor",
+        "dart",
+        "flutter",
+        "ios"
+      ],
+      "bucket": "AI tooling",
+      "created_at": "2026-10-24",
+      "pushed_at": "2026-11-10",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "fujc683/gpt-image-2-6-text-rendering",
+      "url": "https://github.com/fujc683/gpt-image-2-6-text-rendering",
+      "description": "Prompt patterns for legible in-image text with GPT Image 2.6.",
+      "language": null,
+      "stars": 102,
+      "topics": [
+        "ai-image-generation",
+        "api",
+        "apimart",
+        "awesome",
+        "gpt-image",
+        "image-generation",
+        "openai",
+        "prompt-engineering"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-05",
+      "pushed_at": "2026-11-05",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "IluvatarLabs/sitrep",
+      "url": "https://github.com/IluvatarLabs/sitrep",
+      "description": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+      "language": "TypeScript",
+      "stars": 87,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "dashboard",
+        "monitoring",
+        "observability",
+        "self-hosted"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-12",
+      "pushed_at": "2026-11-12",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "jackson-cmd/risk-aware-trading-agents",
+      "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+      "description": "AI trading agents for US stocks with news backtesting that can't see the future: a point-in-time 2026 dataset (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, FOMC/CPI/VIX-aware regimes, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b",
+      "language": "Python",
+      "stars": 70,
+      "topics": [
+        "ai-trading",
+        "algorithmic-trading",
+        "alpaca",
+        "backtesting",
+        "financial-news",
+        "interactive-brokers",
+        "llm",
+        "llm-agents"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "BalthDreadgrid20608/events-rpocket-tracker",
+      "url": "https://github.com/BalthDreadgrid20608/events-rpocket-tracker",
+      "description": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule.",
+      "language": null,
+      "stars": 66,
+      "topics": [
+        "ai-strategy",
+        "conversational-agent",
+        "event-tracing-windows",
+        "event-tracker",
+        "event-tracker-2",
+        "event-tracking",
+        "event-tracking-service",
+        "events"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-05",
+      "pushed_at": "2026-11-05",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "Vespermagnet/jet-reports-skill-rpocket",
+      "url": "https://github.com/Vespermagnet/jet-reports-skill-rpocket",
+      "description": "Claude Code skill: describe a Jet Reports workbook, get a ready-to-run .xlsx (for example NAV / Business Central)",
+      "language": "HTML",
+      "stars": 64,
+      "topics": [
+        "architecture-diagram",
+        "business-analysis",
+        "business-analytics",
+        "business-central",
+        "data-visualization",
+        "dynamics-365",
+        "dynamics-365-bc",
+        "dynamics-nav"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-05",
+      "pushed_at": "2026-11-05",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "PuzzleomJade/pursr-rpocket",
+      "url": "https://github.com/PuzzleomJade/pursr-rpocket",
+      "description": "Visual QA, browser automation, accessibility auditing, screenshot diffing, and MCP tooling for coding agents.",
+      "language": "HTML",
+      "stars": 60,
+      "topics": [
+        "devtools",
+        "engineering-workflow",
+        "llm-review",
+        "markdown-to-pptx",
+        "mdpr",
+        "pixel-diff",
+        "powerpoint",
+        "presentation-tools"
+      ],
+      "bucket": "Dev tools",
+      "created_at": "2026-11-05",
+      "pushed_at": "2026-11-05",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "ProphetTitanhub21008/prove-the-resp-ui",
+      "url": "https://github.com/ProphetTitanhub21008/prove-the-resp-ui",
+      "description": "Open the live page and check it against what you asked for. SHIP, FIX, or CAN'T SEE. Then patch only the named misses. Stop agents shipping a page they never opened.",
+      "language": "HTML",
+      "stars": 53,
+      "topics": [
+        "art-direction",
+        "creative-workflow",
+        "cursor-skills",
+        "design-research",
+        "generative-ai",
+        "graphic-design",
+        "html-slides",
+        "poster-design"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-10-31",
+      "pushed_at": "2026-10-31",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "Abdoandqsnk/ai-manus",
+      "url": "https://github.com/Abdoandqsnk/ai-manus",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Python",
+      "stars": 52,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot",
+        "function-calling",
+        "gemeni",
+        "generative-ai"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-06",
+      "pushed_at": "2026-11-08",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "SealarMeteor/telegram-channel-rpocket-forwarder-ai",
+      "url": "https://github.com/SealarMeteor/telegram-channel-rpocket-forwarder-ai",
+      "description": "Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows.",
+      "language": "HTML",
+      "stars": 52,
+      "topics": [
+        "communism",
+        "gpt-4o-mini",
+        "leninism",
+        "marxism",
+        "marxism-leninism",
+        "pinecone",
+        "retrieval-augmented-generation",
+        "russian"
+      ],
+      "bucket": "AI tooling",
+      "created_at": "2026-10-31",
+      "pushed_at": "2026-10-31",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "better-vault/better-vault",
+      "url": "https://github.com/better-vault/better-vault",
+      "description": "Open-source NotebookLM alternative. Chat with your sources with citations, and turn them into reports, flashcards, quizzes, mind maps and slide decks, with your own OpenAI, Anthropic or Gemini key or local Ollama / LM Studio models. Local-first, no account.",
+      "language": "TypeScript",
+      "stars": 50,
+      "topics": [
+        "ai",
+        "ai-sdk",
+        "anthropic",
+        "byok",
+        "flashcards",
+        "gemini",
+        "knowledge-management",
+        "llm"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-10-23",
+      "pushed_at": "2026-11-10",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "levi-xy/vantage",
+      "url": "https://github.com/levi-xy/vantage",
+      "description": "Self-hosted, security-first dashboard for homelabs: live network maps, hardware-shaped cards, Telegram alerts.",
+      "language": "Python",
+      "stars": 47,
+      "topics": [
+        "dashboard",
+        "fastapi",
+        "homelab",
+        "monitoring",
+        "network-map",
+        "pfsense",
+        "prometheus",
+        "proxmox"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-10-26",
+      "pushed_at": "2026-11-12",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "melgoldstein/agent-blackbox",
+      "url": "https://github.com/melgoldstein/agent-blackbox",
+      "description": "Local flight recorder for AI workflows: inspect tool calls, replay recorded evidence, and fork decisions from checkpoints.",
+      "language": "Python",
+      "stars": 46,
+      "topics": [
+        "ai-agents",
+        "debugging",
+        "observability",
+        "python",
+        "replay",
+        "sqlite"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-10-31",
+      "pushed_at": "2026-11-12",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "StarTrail-org/DRPixel",
+      "url": "https://github.com/StarTrail-org/DRPixel",
+      "description": "DR Pixel: Page-Native Deep Research with Vision-Language Models \u2014 benchmark, evaluation harness and training code",
+      "language": "Python",
+      "stars": 43,
+      "topics": [
+        "agentic-retrieval",
+        "benchmark",
+        "credit-assignment",
+        "deep-research",
+        "multimodal",
+        "rag",
+        "scientific-papers",
+        "visual-document-retrieval"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-01",
+      "pushed_at": "2026-11-02",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "sundo99/glance-homelab",
+      "url": "https://github.com/sundo99/glance-homelab",
+      "description": "A phone-first Glance dashboard for a self-hosted home: animated weather, Home Assistant, media, NAS status, Paperless search, offline Mealie list",
+      "language": "Python",
+      "stars": 37,
+      "topics": [
+        "dashboard",
+        "glance",
+        "home-assistant",
+        "homelab",
+        "jellyfin",
+        "mealie",
+        "ntfy",
+        "paperless-ngx"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-01",
+      "pushed_at": "2026-11-01",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack",
+      "url": "https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack",
+      "description": "13,200 DevOps & Cloud interview Q&As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Azure, DevSecOps, SRE & more. By DevOps Shack (youtube.com/@devopsshack)",
+      "language": null,
+      "stars": 30,
+      "topics": [
+        "ansible",
+        "aws",
+        "azure",
+        "cicd",
+        "devops",
+        "devops-shack",
+        "devsecops",
+        "docker"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-08",
+      "pushed_at": "2026-11-09",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "full_name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "language": "TypeScript",
+      "stars": 1266,
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-09",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-12"
+    },
+    {
       "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
       "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
       "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "language": "HTML",
-      "stars": 1209,
+      "stars": 1212,
       "topics": [
         "acrobat-dc-pro",
         "acrobat-for-free-2026",
@@ -27,7 +445,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -35,7 +453,7 @@
       "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
       "language": "HTML",
-      "stars": 1207,
+      "stars": 1210,
       "topics": [
         "automation",
         "desktop",
@@ -48,7 +466,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -56,7 +474,7 @@
       "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
       "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "language": "HTML",
-      "stars": 1207,
+      "stars": 1208,
       "topics": [
         "aida64",
         "aida64-extreme-compatibility-check",
@@ -69,7 +487,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -77,7 +495,7 @@
       "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
       "description": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
       "language": "HTML",
-      "stars": 1204,
+      "stars": 1207,
       "topics": [
         "archicad",
         "archicad-2026",
@@ -90,28 +508,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "full_name": "PHISHER420/autodesk-inventor-desktop-config",
-      "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
-      "description": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
-      "language": "HTML",
-      "stars": 1203,
-      "topics": [
-        "autodesk-inventor-pro",
-        "autodesk-inventor-pro-pc",
-        "automation",
-        "developer-tools",
-        "inventor",
-        "inventor-automation",
-        "inventor-design",
-        "inventor-parts"
-      ],
-      "bucket": "Dev tools",
-      "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -132,28 +529,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "full_name": "CodeSouvik/clion-standalone-enhancement",
-      "url": "https://github.com/CodeSouvik/clion-standalone-enhancement",
-      "description": "CLion full installer: complete standalone setup, all features activated",
-      "language": "HTML",
-      "stars": 1201,
-      "topics": [
-        "automation",
-        "clion-2026",
-        "clion-download-windows",
-        "cmake-ide",
-        "cpp-ide",
-        "desktop",
-        "developer-tools",
-        "jetbrains-clion"
-      ],
-      "bucket": "Dev tools",
-      "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -174,7 +550,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -195,7 +571,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -216,7 +592,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -237,28 +613,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "full_name": "agentes-chat/agentes-chat",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "language": "TypeScript",
-      "stars": 732,
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "browser-automation",
-        "chat",
-        "claude",
-        "claude-code",
-        "codex",
-        "collaboration"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-11-09",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -266,7 +621,7 @@
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "description": "Can AI agents rebuild websites through browser exploration?",
       "language": "Python",
-      "stars": 262,
+      "stars": 315,
       "topics": [
         "agent-evaluation",
         "ai",
@@ -325,11 +680,32 @@
       "first_seen": "2026-11-12"
     },
     {
+      "full_name": "8hjkkwikl8/ai-portfolio",
+      "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+      "description": "\u4e09\u4e2a\u53ef\u8fd0\u884c\u7684 AI \u5de5\u7a0b\u9879\u76ee\uff1a\u53ef\u8ffd\u6eaf RAG\u3001\u63d0\u793a\u8bcd\u8bc4\u6d4b\u4e0e\u53d7\u5b88\u62a4\u7684 NL2SQL \u5206\u6790",
+      "language": "Python",
+      "stars": 100,
+      "topics": [
+        "ai",
+        "fastapi",
+        "llm",
+        "nl2sql",
+        "portfolio",
+        "prompt-engineering",
+        "rag",
+        "sqlite"
+      ],
+      "bucket": "LLM / GenAI",
+      "created_at": "2026-11-11",
+      "pushed_at": "2026-11-13",
+      "first_seen": "2026-11-12"
+    },
+    {
       "full_name": "rhinoc/xprite-pixelate",
       "url": "https://github.com/rhinoc/xprite-pixelate",
       "description": "Recover the real pixel grid of AI-generated and upscaled pixel art, and turn images into pixel art.",
       "language": "TypeScript",
-      "stars": 79,
+      "stars": 80,
       "topics": [
         "ai-pixel-art",
         "computer-vision",
@@ -343,27 +719,6 @@
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-31",
       "pushed_at": "2026-11-06",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "full_name": "8hjkkwikl8/ai-portfolio",
-      "url": "https://github.com/8hjkkwikl8/ai-portfolio",
-      "description": "\u4e09\u4e2a\u53ef\u8fd0\u884c\u7684 AI \u5de5\u7a0b\u9879\u76ee\uff1a\u53ef\u8ffd\u6eaf RAG\u3001\u63d0\u793a\u8bcd\u8bc4\u6d4b\u4e0e\u53d7\u5b88\u62a4\u7684 NL2SQL \u5206\u6790",
-      "language": "Python",
-      "stars": 60,
-      "topics": [
-        "ai",
-        "fastapi",
-        "llm",
-        "nl2sql",
-        "portfolio",
-        "prompt-engineering",
-        "rag",
-        "sqlite"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-11-11",
-      "pushed_at": "2026-11-12",
       "first_seen": "2026-11-12"
     },
     {
@@ -403,26 +758,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-10-29",
-      "pushed_at": "2026-11-11",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "full_name": "lucia-huang7/RideRecall-Agent",
-      "url": "https://github.com/lucia-huang7/RideRecall-Agent",
-      "description": "Stateful ride-support agent: versioned claims, evidence-backed RAG, durable memory and guarded MCP tools.",
-      "language": "Python",
-      "stars": 40,
-      "topics": [
-        "evaluation",
-        "fastapi",
-        "llm-agents",
-        "mcp",
-        "rag",
-        "vue"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-12"
     },
     {
@@ -430,7 +766,7 @@
       "url": "https://github.com/mdiri-ai/SoduWork",
       "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "language": "JavaScript",
-      "stars": 398,
+      "stars": 566,
       "topics": [
         "agent-harness",
         "agent-orchestration",
@@ -441,9 +777,9 @@
         "claude-code",
         "codex"
       ],
-      "bucket": "Infrastructure",
+      "bucket": "LLM / GenAI",
       "created_at": "2026-10-29",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-11"
     },
     {
@@ -451,7 +787,7 @@
       "url": "https://github.com/enmerasoftware/ai-design-check",
       "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
       "language": "HTML",
-      "stars": 246,
+      "stars": 247,
       "topics": [
         "agent-skill",
         "ai",
@@ -468,32 +804,11 @@
       "first_seen": "2026-11-11"
     },
     {
-      "full_name": "ValidatorStack/solana-vigil",
-      "url": "https://github.com/ValidatorStack/solana-vigil",
-      "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
-      "language": "Go",
-      "stars": 241,
-      "topics": [
-        "alerting",
-        "alpenglow",
-        "blockchain",
-        "cryptocurrency",
-        "devops",
-        "golang",
-        "grafana",
-        "infrastructure"
-      ],
-      "bucket": "Infrastructure",
-      "created_at": "2026-11-10",
-      "pushed_at": "2026-11-10",
-      "first_seen": "2026-11-11"
-    },
-    {
       "full_name": "Future-Proof-DS/interactive-ai-ml-tools",
       "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
       "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
       "language": null,
-      "stars": 192,
+      "stars": 241,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -510,11 +825,32 @@
       "first_seen": "2026-11-11"
     },
     {
+      "full_name": "ValidatorStack/solana-vigil",
+      "url": "https://github.com/ValidatorStack/solana-vigil",
+      "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+      "language": "Go",
+      "stars": 240,
+      "topics": [
+        "alerting",
+        "alpenglow",
+        "blockchain",
+        "cryptocurrency",
+        "devops",
+        "golang",
+        "grafana",
+        "infrastructure"
+      ],
+      "bucket": "Infrastructure",
+      "created_at": "2026-11-10",
+      "pushed_at": "2026-11-10",
+      "first_seen": "2026-11-11"
+    },
+    {
       "full_name": "bookleme/bookleme",
       "url": "https://github.com/bookleme/bookleme",
       "description": "\u8bfb\u4e86\u4e48\uff08BookLeme\uff09\u00b7 \u628a\u4e00\u672c\u4e66\u7f16\u8bd1\u6210 Agent Skill \u2014\u2014 \u53cc\u5f15\u64ce + \u53ef\u63d2\u62d4\u4f53\u88c1\u63d2\u4ef6 + \u9010\u5b57\u5fe0\u5b9e\u5ea6\u56de\u9a8c",
       "language": "Python",
-      "stars": 147,
+      "stars": 182,
       "topics": [
         "agent-skills",
         "book-to-skill",
@@ -525,7 +861,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-11-09",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-11"
     },
     {
@@ -533,7 +869,7 @@
       "url": "https://github.com/Veloresearch/kinetic",
       "description": "The open engine for running AI on your own computer. Fast, exact, open source.",
       "language": "Rust",
-      "stars": 77,
+      "stars": 86,
       "topics": [
         "cuda",
         "gguf",
@@ -546,7 +882,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-11-10",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-12",
       "first_seen": "2026-11-11"
     },
     {
@@ -554,7 +890,7 @@
       "url": "https://github.com/chiang21fcb/hygieia",
       "description": "Inspect, evaluate, and stress-test an existing semantic layer. Runs fully offline.",
       "language": "Python",
-      "stars": 56,
+      "stars": 74,
       "topics": [
         "agent-skills",
         "cli",
@@ -587,7 +923,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-11"
     },
     {
@@ -612,7 +948,7 @@
       "url": "https://github.com/libracoder/kiri",
       "description": "A small, fast container runtime for macOS, Windows and Linux",
       "language": "Rust",
-      "stars": 1673,
+      "stars": 1950,
       "topics": [
         "containers",
         "docker",
@@ -624,7 +960,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-02",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-10"
     },
     {
@@ -632,7 +968,7 @@
       "url": "https://github.com/RunanywhereAI/trnrt",
       "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
       "language": "Python",
-      "stars": 1422,
+      "stars": 1575,
       "topics": [
         "aws",
         "glm",
@@ -653,7 +989,7 @@
       "url": "https://github.com/HolyArrs/HolyArrs",
       "description": "One self-hosted app for your shows, movies and music.",
       "language": "Go",
-      "stars": 884,
+      "stars": 1037,
       "topics": [
         "docker",
         "homelab",
@@ -672,7 +1008,7 @@
       "url": "https://github.com/Banan1cee/whale_girl",
       "description": "\u9cb8\u9cb8 \u00b7 \u8ba9 DeepSeek \u7528\u4f60\u7684\u5fae\u4fe1\u8d26\u53f7\u966a\u804a\uff08Windows \u684c\u9762\u7aef + WPF \u542f\u52a8\u5668\uff09\u3002WeChat chat bot powered by DeepSeek/Qwen.",
       "language": "JavaScript",
-      "stars": 528,
+      "stars": 568,
       "topics": [
         "chatbot",
         "deepseek",
@@ -685,7 +1021,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-26",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-10"
     },
     {
@@ -693,7 +1029,7 @@
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
       "language": "Markdown",
-      "stars": 348,
+      "stars": 352,
       "topics": [
         "ai",
         "fde",
@@ -704,7 +1040,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-10-30",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-10"
     },
     {
@@ -732,7 +1068,7 @@
       "url": "https://github.com/govijr/terminal-phone",
       "description": "Your Real iPhone or iOS Simulator in your Terminal.",
       "language": "Swift",
-      "stars": 247,
+      "stars": 260,
       "topics": [
         "appstore",
         "cli",
@@ -752,7 +1088,7 @@
       "url": "https://github.com/nengong/download-anything",
       "description": "\u9762\u5411 AI Agent \u4e0e\u7ec8\u7aef\u7684\u5168\u80fd\u4e0b\u8f7d\u4e0e\u5f52\u6863\u5de5\u5177 / All-in-one CLI & Skill to download anything: videos, docs, cloud drives, music, papers & books",
       "language": "Python",
-      "stars": 219,
+      "stars": 224,
       "topics": [
         "ai-agent",
         "claude-code",
@@ -773,7 +1109,7 @@
       "url": "https://github.com/munitkala/selfsemester",
       "description": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
       "language": "Rust",
-      "stars": 82,
+      "stars": 90,
       "topics": [
         "ai-education",
         "ai-tutor",
@@ -794,7 +1130,7 @@
       "url": "https://github.com/weixijia/mas-office",
       "description": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
       "language": "JavaScript",
-      "stars": 56,
+      "stars": 65,
       "topics": [
         "agents",
         "ai-agents",
@@ -815,7 +1151,7 @@
       "url": "https://github.com/ZhuLinsen/LiteMoE",
       "description": "A MoE inference engine you can read in an afternoon.",
       "language": "Python",
-      "stars": 30,
+      "stars": 31,
       "topics": [
         "gpu",
         "inference",
@@ -833,7 +1169,7 @@
       "url": "https://github.com/OmniJev/Flide",
       "description": "\ud83d\udd25\ud83d\udd25 The extremely fast inference engine for decision model",
       "language": "Python",
-      "stars": 465,
+      "stars": 485,
       "topics": [
         "ai-agents",
         "cuda",
@@ -846,7 +1182,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-24",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "first_seen": "2026-11-09"
     },
     {
@@ -867,7 +1203,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-09"
     },
     {
@@ -875,7 +1211,7 @@
       "url": "https://github.com/0xCoach/TaoSheng",
       "description": "\u6d9b\u58f0 TaoSheng\uff1a\u7528\u4e00\u90e8\u5b89\u5353\u624b\u673a\u5168\u5929\u6536\u97f3 \u2192 \u8f6c\u5199 \u2192 \u8ba4\u4eba \u2192 AI \u6574\u7406\u6210\u5f85\u529e\u4e0e\u8bb0\u5fc6\u3002\u65e0\u9700\u786c\u4ef6\u3001\u65e0\u9700\u8d26\u53f7\uff0c\u6570\u636e\u53ea\u5728\u4f60\u624b\u673a\u91cc\u3002",
       "language": "Kotlin",
-      "stars": 366,
+      "stars": 373,
       "topics": [
         "ai",
         "android",
@@ -888,7 +1224,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-10-24",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-09"
     },
     {
@@ -896,7 +1232,7 @@
       "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
       "description": "GitaVi\u015bva (\u0917\u0940\u0924\u093e\u0935\u093f\u0936\u094d\u0935): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
       "language": "Cypher",
-      "stars": 100,
+      "stars": 103,
       "topics": [
         "bhagavad-gita",
         "byok",
@@ -917,7 +1253,7 @@
       "url": "https://github.com/NVIDIA/nsight-perf-sdk-for-ai",
       "description": "Always-on, low-overhead GPU and CUDA performance tracing SDK for AI workloads. C++ client APIs, CLI tools, open data model, Perfetto export.",
       "language": "CMake",
-      "stars": 98,
+      "stars": 103,
       "topics": [
         "ai-infrastructure",
         "cpp",
@@ -938,7 +1274,7 @@
       "url": "https://github.com/saksham10arora-dotcom/everything-claude-codex",
       "description": "Claude Code and Codex working as one team: one shared memory (voice included), each sees the other's latest messages. Plus searchable notes, self health checks, and phone access with the laptop shut.",
       "language": "Python",
-      "stars": 87,
+      "stars": 89,
       "topics": [
         "agent-memory",
         "ai-agents",
@@ -955,32 +1291,11 @@
       "first_seen": "2026-11-09"
     },
     {
-      "full_name": "khanhtq29vn/contextcraft",
-      "url": "https://github.com/khanhtq29vn/contextcraft",
-      "description": "AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
-      "language": "Rust",
-      "stars": 65,
-      "topics": [
-        "ai-engineering",
-        "ast",
-        "codebase-to-prompt",
-        "coding-agents",
-        "context-compression",
-        "developer-tools",
-        "knapsack-problem",
-        "llm"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-05",
-      "first_seen": "2026-11-09"
-    },
-    {
       "full_name": "Abdul-Rehman7826/ai-manus",
       "url": "https://github.com/Abdul-Rehman7826/ai-manus",
       "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "language": "Python",
-      "stars": 54,
+      "stars": 55,
       "topics": [
         "ai",
         "ai-agents",
@@ -997,32 +1312,11 @@
       "first_seen": "2026-11-09"
     },
     {
-      "full_name": "EpicGiantite13205/ai--manus",
-      "url": "https://github.com/EpicGiantite13205/ai--manus",
-      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "language": null,
-      "stars": 52,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-sdk",
-        "anthropic",
-        "chatbot",
-        "function-calling",
-        "gemeni",
-        "generative-ai"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-11-07",
-      "pushed_at": "2026-11-08",
-      "first_seen": "2026-11-09"
-    },
-    {
       "full_name": "SAOS-3624/dsh-see-now",
       "url": "https://github.com/SAOS-3624/dsh-see-now",
       "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
       "language": "JavaScript",
-      "stars": 603,
+      "stars": 617,
       "topics": [
         "ai-agent",
         "dsh",
@@ -1060,32 +1354,11 @@
       "first_seen": "2026-11-08"
     },
     {
-      "full_name": "alexsergivan/kwant",
-      "url": "https://github.com/alexsergivan/kwant",
-      "description": "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React.",
-      "language": "Rust",
-      "stars": 519,
-      "topics": [
-        "ai-agents",
-        "ai-assistant",
-        "ai-bot",
-        "automation",
-        "bot",
-        "bots-team",
-        "chatbot",
-        "claude-duet"
-      ],
-      "bucket": "Infrastructure",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-11-08"
-    },
-    {
       "full_name": "dbcaskml183-dotcom/dsh-prelude",
       "url": "https://github.com/dbcaskml183-dotcom/dsh-prelude",
       "description": "DeepSeek Harness (DSH) \u63d0\u793a\u8bcd\u5de5\u7a0b\u63d2\u4ef6\u3002\u5728\u8f93\u5165\u6846\u91cc\u53d1\u73b0\u9057\u6f0f\uff0c\u4ece 90 \u5f20\u65b9\u6cd5\u5361\u9009\u4e00\u53e5\u8865\u5165\uff0c\u6216\u5bf9\u7167\u539f\u7a3f\u6539\u5199\u3001\u6838\u5bf9\u5f15\u6587\u5e76\u6062\u590d\u539f\u8bdd\u3002Prompt editor for DSH with method cards, draft comparison and quote recovery.",
       "language": "JavaScript",
-      "stars": 239,
+      "stars": 245,
       "topics": [
         "deepseek-harness",
         "dsh",
@@ -1118,7 +1391,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-08"
     },
     {
@@ -1139,7 +1412,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-06",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-08"
     },
     {
@@ -1147,7 +1420,7 @@
       "url": "https://github.com/Jumbomuffin777/Frontier-UI",
       "description": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
       "language": "Python",
-      "stars": 68,
+      "stars": 69,
       "topics": [
         "ai-tools",
         "artcraft",
@@ -1189,7 +1462,7 @@
       "url": "https://github.com/kawsarlog/awesome-hermes-agent",
       "description": "Beginner-friendly awesome list and guides for Hermes Agent by Nous Research. Install, skills, memory, MCP, cron, workflows, security, and curated ecosystem links. Independent community guide, not official.",
       "language": null,
-      "stars": 41,
+      "stars": 43,
       "topics": [
         "agentskills",
         "ai-agents",
@@ -1210,7 +1483,7 @@
       "url": "https://github.com/zaxiu88888/issue-rag",
       "description": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
       "language": "Python",
-      "stars": 302,
+      "stars": 368,
       "topics": [
         "evaluation",
         "github-issues",
@@ -1230,7 +1503,7 @@
       "url": "https://github.com/openrobokit/roboskills",
       "description": "A minimal set of agent workflows and tools for robotics",
       "language": "Python",
-      "stars": 165,
+      "stars": 167,
       "topics": [
         "agentic-robotics",
         "embodied-ai",
@@ -1289,32 +1562,11 @@
       "first_seen": "2026-11-07"
     },
     {
-      "full_name": "sjdsjadjajdjsa/prism",
-      "url": "https://github.com/sjdsjadjajdjsa/prism",
-      "description": "Free AI coding assistant for your terminal and browser. Runs on free models or your ChatGPT, Claude, Grok, Gemini or Copilot plan. No account needed.",
-      "language": "Go",
-      "stars": 37,
-      "topics": [
-        "ai",
-        "ai-agent",
-        "bubbletea",
-        "cli",
-        "coding-agent",
-        "coding-assistant",
-        "docker",
-        "free"
-      ],
-      "bucket": "Dev tools",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-02",
-      "first_seen": "2026-11-07"
-    },
-    {
       "full_name": "Sandflow-ai/sand3d",
       "url": "https://github.com/Sandflow-ai/sand3d",
       "description": "3D modeling in Python, built for LLMs.",
       "language": "HTML",
-      "stars": 1901,
+      "stars": 1943,
       "topics": [
         "3d",
         "blender",
@@ -1334,7 +1586,7 @@
       "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
       "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
       "language": "JavaScript",
-      "stars": 332,
+      "stars": 330,
       "topics": [
         "agents",
         "ai",
@@ -1355,7 +1607,7 @@
       "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
       "description": "T\u00fcrk\u00e7e metinlerdeki yapay zeka izlerini (AI slop, translationese, \u00e7eviri kokan c\u00fcmle mimarisi ve TDK hatalar\u0131n\u0131) temizleyen Agent Skill ve Humanizer paketi.",
       "language": "Python",
-      "stars": 306,
+      "stars": 309,
       "topics": [
         "agent-skills",
         "ai-skills",
@@ -1372,31 +1624,11 @@
       "first_seen": "2026-11-06"
     },
     {
-      "full_name": "Dongbumlee/ontosmith",
-      "url": "https://github.com/Dongbumlee/ontosmith",
-      "description": "A decision-model-based ontology & knowledge-graph builder \u2014 builds governed knowledge graphs from your documents, every fact gated and traceable to its evidence.",
-      "language": "Python",
-      "stars": 275,
-      "topics": [
-        "graphrag",
-        "information-extraction",
-        "knowledge-graph",
-        "llm",
-        "neo4j",
-        "ontology",
-        "rag"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-11-06"
-    },
-    {
       "full_name": "didilili/mianstack",
       "url": "https://github.com/didilili/mianstack",
       "description": "\ud83d\ude80 \u9762\u6808 MianStack\uff5c\u7a0b\u5e8f\u5458\u9762\u8bd5\u9898\u5e93\u5929\u82b1\u677f\uff01Java\u3001Python\u3001\u6570\u636e\u5e93\u3001\u7b97\u6cd5\u3001\u5927\u6a21\u578b\u3001AI Agent\u3001RAG \u4e00\u6808\u5907\u9f50\u3002\u771f\u5b9e\u9762\u7ecf\u5173\u8054\u9ad8\u9891\u8003\u70b9\uff0c\u6309\u516c\u53f8\u3001\u5c97\u4f4d\u5b9a\u5411\u5907\u8003\uff1b\u56fe\u6587\u9898\u89e3\u3001\u7cbe\u534e\u4e13\u9898\u3001\u9879\u76ee\u6e90\u7801\u62c6\u89e3\uff0c\u5168\u7cfb\u6807\u914d\u3002\u9762\u8bd5\u5b98\u51fa\u9898\uff0c\u9762\u6808\u51fa\u62db\uff01\u514d\u8d39\u5f00\u6e90\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
       "language": "JavaScript",
-      "stars": 168,
+      "stars": 182,
       "topics": [
         "agent",
         "agentic-ai",
@@ -1409,7 +1641,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-11-02",
-      "pushed_at": "2026-11-07",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-06"
     },
     {
@@ -1417,7 +1649,7 @@
       "url": "https://github.com/sksarvesh007/antiglaude",
       "description": "Production compatibility gateway bridge & observability platform connecting Claude Code CLI with Google Antigravity & Gemini inference models via Anthropic Messages API",
       "language": "Python",
-      "stars": 167,
+      "stars": 169,
       "topics": [
         "ai-agent",
         "anthropic",
@@ -1480,7 +1712,7 @@
       "url": "https://github.com/ktv668899/maidong-ktv",
       "description": "\u9ea6\u52a8KTV\uff08\u9ea6\u52a8 KTV\uff09\u00b7 \u5f00\u6e90\u7535\u89c6 KTV \u70b9\u6b4c\u5e94\u7528\uff0cAndroid TV / \u673a\u9876\u76d2 karaoke app\uff1a\u9065\u63a7\u5668\u70b9\u6b4c + \u624b\u673a\u626b\u7801\u70b9\u6b4c\uff0c\u81ea\u5e26\u66f2\u5e93\u540c\u6b65\u4e0e IJK \u64ad\u653e\u5185\u6838\uff0c\u514d\u8d39\u65e0\u5e7f\u544a\u3002 Maidong KTV - open source karaoke player for Android TV.",
       "language": "Kotlin",
-      "stars": 73,
+      "stars": 75,
       "topics": [
         "android",
         "android-tv",
@@ -1521,7 +1753,7 @@
       "url": "https://github.com/wssfk12138/trace-to-practice",
       "description": "Evidence-backed retrospectives for AI coding-agent histories. Offline indexing, scoped workflow improvements, and bilingual documentation.",
       "language": "Python",
-      "stars": 44,
+      "stars": 45,
       "topics": [
         "agent-memory",
         "agent-skill",
@@ -1542,7 +1774,7 @@
       "url": "https://github.com/hhtower/price-comparison",
       "description": "AI \u8ba2\u9605\u4e0e\u5361\u7f51\u6bd4\u4ef7\u5e73\u53f0\uff0c\u8bf4\u51fa\u9700\u6c42\uff0c\u8ba9 AI \u5e2e\u4f60\u9009\u3002\u805a\u5408 ChatGPT / Codex\u3001Claude\u3001Gemini \u7b49\u4ee3\u5145\u6216\u8d26\u53f7\u62a5\u4ef7\uff0c\u5bf9\u6bd4\u4ef7\u683c\u8d70\u52bf\u3001\u5145\u503c\u6e20\u9053\u4e0e\u8d28\u4fdd\u3002AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
       "language": "TypeScript",
-      "stars": 304,
+      "stars": 307,
       "topics": [
         "ai",
         "ai-assistants",
@@ -1555,7 +1787,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-10-28",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-05"
     },
     {
@@ -1618,7 +1850,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-11-01",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-05"
     },
     {
@@ -1626,7 +1858,7 @@
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "\u8ba9\u4f60\u7684\u547d\u4ee4\u884c Agent \u5728\u540e\u53f0\u81ea\u5df1\u63a5\u6d3b\u3001\u81ea\u5df1\u8ddf\u8fdb\u5230\u5e95\uff1b\u5e73\u65f6\u4e0d\u70e6\u4f60\uff0c\u9047\u5230\u62ff\u4e0d\u51c6\u7684\u4e8b\u624d\u53d1\u5361\u7247\u627e\u4f60\u62cd\u677f\u3002",
       "language": "TypeScript",
-      "stars": 4593,
+      "stars": 5040,
       "topics": [
         "ai-agents",
         "automation",
@@ -1639,7 +1871,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-11-03",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-04"
     },
     {
@@ -1647,7 +1879,7 @@
       "url": "https://github.com/govijr/terminal-mac",
       "description": "Entire MacOS running in your terminal.",
       "language": "Swift",
-      "stars": 2621,
+      "stars": 2692,
       "topics": [
         "cli",
         "gui",
@@ -1667,7 +1899,7 @@
       "url": "https://github.com/heydeer/slimdeer",
       "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8\u201312% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
       "language": "Rust",
-      "stars": 553,
+      "stars": 559,
       "topics": [
         "cli",
         "color-quantization",
@@ -1688,7 +1920,7 @@
       "url": "https://github.com/noon-at-cgn/geforce-sriov",
       "description": "Enable SR-IOV vGPU for consumer Ampere and Ada GeForce cards.",
       "language": "C",
-      "stars": 168,
+      "stars": 173,
       "topics": [
         "dkms",
         "geforce",
@@ -1701,7 +1933,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-11-03",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-12",
       "first_seen": "2026-11-04"
     },
     {
@@ -1709,7 +1941,7 @@
       "url": "https://github.com/JuneYaooo/rea-video",
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u4e2a\u955c\u5934\u770b\u662f\u62cd\u7684\u3001AI \u751f\u6210\u7684\u8fd8\u662f\u4ee3\u7801\u505a\u7684\uff0c\u518d\u544a\u8bc9\u4f60\u600e\u4e48\u590d\u523b\uff1b\u62c6\u89e3\u7ed3\u679c\u6309 VIDEO.md \u683c\u5f0f\u8f93\u51fa\u3002",
       "language": "Python",
-      "stars": 7286,
+      "stars": 7726,
       "topics": [
         "agent-skills",
         "ai-video",
@@ -1722,7 +1954,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-29",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-03"
     },
     {
@@ -1730,7 +1962,7 @@
       "url": "https://github.com/YuhuaJiang2002/HarnessMM",
       "description": "HarnessMM: recursive self-improvement for harness token efficiency",
       "language": "Python",
-      "stars": 169,
+      "stars": 175,
       "topics": [
         "agent-harness",
         "llm-agents",
@@ -1747,7 +1979,7 @@
       "url": "https://github.com/modelflare-ai/AnyModelBot",
       "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "language": "Python",
-      "stars": 3340,
+      "stars": 3533,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -1768,7 +2000,7 @@
       "url": "https://github.com/Verlintas/NOIR",
       "description": "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "language": "Kotlin",
-      "stars": 3321,
+      "stars": 3345,
       "topics": [
         "adb",
         "android",
@@ -1789,7 +2021,7 @@
       "url": "https://github.com/N1nEmAn/sapper-v2",
       "description": "The first fruit of the N\u00fcwa tree \u2014 an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the N\u00fcwa Foundation (Create/Language/History).",
       "language": "Python",
-      "stars": 2010,
+      "stars": 2038,
       "topics": [
         "agentic-workflows",
         "ai-agents",
@@ -1831,7 +2063,7 @@
       "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
       "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
       "language": "JavaScript",
-      "stars": 767,
+      "stars": 768,
       "topics": [
         "ai",
         "gpt"
@@ -1839,6 +2071,27 @@
       "bucket": "AI tooling",
       "created_at": "2026-10-29",
       "pushed_at": "2026-11-09",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "full_name": "Juneo-Lab/decision-forge",
+      "url": "https://github.com/Juneo-Lab/decision-forge",
+      "description": "Compile organizational policy into verifiable decision training data.",
+      "language": "Python",
+      "stars": 359,
+      "topics": [
+        "ai-agents",
+        "data-provenance",
+        "decision-data",
+        "fine-tuning",
+        "llm",
+        "policy-as-code",
+        "python",
+        "synthetic-data"
+      ],
+      "bucket": "AI tooling",
+      "created_at": "2026-10-30",
+      "pushed_at": "2026-11-08",
       "first_seen": "2026-11-02"
     },
     {
@@ -1867,7 +2120,7 @@
       "url": "https://github.com/rtora/munorai",
       "description": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
       "language": null,
-      "stars": 307,
+      "stars": 308,
       "topics": [
         "ai",
         "ai-agents",
@@ -1879,32 +2132,11 @@
       "first_seen": "2026-11-02"
     },
     {
-      "full_name": "Juneo-Lab/decision-forge",
-      "url": "https://github.com/Juneo-Lab/decision-forge",
-      "description": "Compile organizational policy into verifiable decision training data.",
-      "language": "Python",
-      "stars": 297,
-      "topics": [
-        "ai-agents",
-        "data-provenance",
-        "decision-data",
-        "fine-tuning",
-        "llm",
-        "policy-as-code",
-        "python",
-        "synthetic-data"
-      ],
-      "bucket": "AI tooling",
-      "created_at": "2026-10-30",
-      "pushed_at": "2026-11-08",
-      "first_seen": "2026-11-02"
-    },
-    {
       "full_name": "Deeyu/ai-costume-gallery-zh",
       "url": "https://github.com/Deeyu/ai-costume-gallery-zh",
       "description": "AI \u53c2\u8003\u56fe\u5e93\u4e2d\u6587\u7248\uff5c\u670d\u88c5\uff08\u5199\u5b9e 1,407 \u5957\uff0f\u52a8\u753b 1,320 \u5957\uff09\u3001\u8138\u578b 1,499 \u5f20\u3001\u59ff\u52bf\u7ebf\u7a3f\u4e0e\u6df1\u5ea6\u56fe\u5404 1,439 \u5f20\u3001\u4e8c\u6b21\u5143 843 \u6761\u76ee\u3002\u9762\u5411 AI \u7ed8\u753b\u3001\u89d2\u8272\u8bbe\u8ba1\u4e0e\u6f2b\u5267\u5206\u955c\uff0c\u652f\u6301\u4e2d\u6587\u68c0\u7d22\u3001\u591a\u89c6\u89d2\u6d4f\u89c8\u3001\u56fe\u7247\u590d\u5236\u4e0e\u4e0b\u8f7d\u3002\u5f00\u6e90\u9759\u6001\u7ad9\u70b9\uff0c\u4fdd\u7559\u539f\u59cb\u6765\u6e90\u53ca\u4f7f\u7528\u6761\u4ef6\u3002",
       "language": "HTML",
-      "stars": 169,
+      "stars": 180,
       "topics": [
         "ai-art",
         "ai-comics",
@@ -1925,7 +2157,7 @@
       "url": "https://github.com/SalmeronDevZone/azure-lab",
       "description": "Simulador de Azure para aprender DevOps sin cuenta ni costes: portal, Cloud Shell, Azure DevOps y una academia de 13 niveles con 47 laboratorios que se validan solos.",
       "language": "TypeScript",
-      "stars": 139,
+      "stars": 141,
       "topics": [
         "azure",
         "azure-devops",
@@ -1967,7 +2199,7 @@
       "url": "https://github.com/zhanghao123vip/ai-manju-skills",
       "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
       "language": null,
-      "stars": 768,
+      "stars": 790,
       "topics": [
         "ai-skills",
         "ai-video",
@@ -1985,7 +2217,7 @@
       "url": "https://github.com/mutonby/agentring",
       "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
       "language": "Python",
-      "stars": 381,
+      "stars": 411,
       "topics": [
         "ai-agents",
         "android",
@@ -1998,7 +2230,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-10-23",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "first_seen": "2026-11-01"
     },
     {
@@ -2006,7 +2238,7 @@
       "url": "https://github.com/muaaz9329/cheap-ag",
       "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
       "language": "TypeScript",
-      "stars": 329,
+      "stars": 330,
       "topics": [
         "agentic-coding",
         "ai-agents",
@@ -2040,7 +2272,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-10-31",
-      "pushed_at": "2026-11-06",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-11-01"
     },
     {
@@ -2048,7 +2280,7 @@
       "url": "https://github.com/glincker/awesome-selfhosted-ai",
       "description": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
       "language": "JavaScript",
-      "stars": 123,
+      "stars": 125,
       "topics": [
         "ai-agents",
         "awesome",
@@ -2069,7 +2301,7 @@
       "url": "https://github.com/akivajp/rigtop",
       "description": "System monitor for workstations, laptops and NAS \u2014 terminal UI and native GUI, many hosts over SSH. A btop alternative.",
       "language": "Rust",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "btop",
         "btop-alternative",
@@ -2111,7 +2343,7 @@
       "url": "https://github.com/wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 8326,
+      "stars": 8488,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -2124,7 +2356,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-29",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-31"
     },
     {
@@ -2132,7 +2364,7 @@
       "url": "https://github.com/jackwener/DSH-Android",
       "description": "\u514d ROOT \u514d Termux\uff0c\u4e00\u4e2a APK \u5728\u5b89\u5353\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5f15\u64ce\u5185\u5d4c App \u8fdb\u7a0b \u00b7 \u8bfb\u5c4f\u64cd\u4f5c App \u00b7 \u6539\u7cfb\u7edf\u8bbe\u7f6e \u00b7 \u5b9a\u65f6/\u6761\u4ef6\u81ea\u52a8\u5316 \u00b7 \u53ef\u9009 Shizuku",
       "language": "Kotlin",
-      "stars": 918,
+      "stars": 926,
       "topics": [
         "ai-agent",
         "android",
@@ -2148,32 +2380,11 @@
       "first_seen": "2026-10-31"
     },
     {
-      "full_name": "wici-ai/inferssd",
-      "url": "https://github.com/wici-ai/inferssd",
-      "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
-      "language": "C++",
-      "stars": 618,
-      "topics": [
-        "apple-silicon",
-        "cuda",
-        "gguf",
-        "inference",
-        "llama-cpp",
-        "llm",
-        "metal",
-        "mixture-of-experts"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-10-31"
-    },
-    {
       "full_name": "wanghao-SunSky/cs329z-chinese",
       "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
       "description": "\u65af\u5766\u798f Stanford CS329Z Engineering AI Agents \u4e2d\u6587\u6559\u7a0b\uff1a\u9762\u5411 Python \u5f00\u53d1\u8005\u7684 AI \u667a\u80fd\u4f53\u8bfe\u7a0b\uff0c19 \u8bb2\u4e0e 4 \u9879\u5b9e\u8df5\uff0c\u6db5\u76d6 LLM\u3001RAG\u3001\u5de5\u5177\u8c03\u7528\u3001\u8bb0\u5fc6\u3001\u591a\u667a\u80fd\u4f53\u3001\u8bc4\u6d4b\u4e0e\u5b89\u5168\u3002\u5b8c\u6574 Markdown\u3001\u5728\u7ebf\u4e0e\u79bb\u7ebf HTML\u3002Chinese course notes.",
       "language": "HTML",
-      "stars": 586,
+      "stars": 593,
       "topics": [
         "agent-memory",
         "agentic-ai",
@@ -2194,7 +2405,7 @@
       "url": "https://github.com/bnlqn/overlook",
       "description": "Your whole homelab on one page, laid out for you.",
       "language": "Go",
-      "stars": 245,
+      "stars": 249,
       "topics": [
         "dashboard",
         "go",
@@ -2207,7 +2418,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-10-28",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-31"
     },
     {
@@ -2268,7 +2479,7 @@
         "observability",
         "prompt-caching"
       ],
-      "bucket": "LLM / GenAI",
+      "bucket": "Infrastructure",
       "created_at": "2026-10-30",
       "pushed_at": "2026-10-30",
       "first_seen": "2026-10-31"
@@ -2278,7 +2489,7 @@
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "description": "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
       "language": "Dart",
-      "stars": 20321,
+      "stars": 21393,
       "topics": [
         "ai-agent",
         "android",
@@ -2291,7 +2502,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-25",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-30"
     },
     {
@@ -2299,7 +2510,7 @@
       "url": "https://github.com/emanuele-em/kanzo",
       "description": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.",
       "language": "Rust",
-      "stars": 1168,
+      "stars": 1178,
       "topics": [
         "ai-agents",
         "claude-code",
@@ -2320,7 +2531,7 @@
       "url": "https://github.com/shipwords-dev/shipwords",
       "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | \u65b0\u8bcd\u7ad9\u7fa4\u6846\u67b6\uff1a\u4e00\u4e2a\u65b0\u8bcd\u4e00\u4e2a\u7ad9\uff0c\u4e00\u4e2a\u4e0b\u5348\u4e0a\u7ebf\u3002\u8d77\u91cf\u7684\u7ee7\u7eed\u8fed\u4ee3\uff0c\u6ca1\u8d77\u6765\u7684\u653e\u7740\u4e0d\u7ba1\u3002\u4e0d\u53d8\u7684\u5171\u4eab\uff0c\u53d8\u7684\u72ec\u7acb\u3002",
       "language": "TypeScript",
-      "stars": 367,
+      "stars": 369,
       "topics": [
         "ai",
         "cloudflare",
@@ -2341,7 +2552,7 @@
       "url": "https://github.com/zklmiao/prompt-vault",
       "description": "\u672c\u5730\u4f18\u5148\u7684 Prompt \u6536\u85cf\u684c\u9762\u5de5\u5177 \u00b7 Tauri 2 + React 19 + TypeScript \u00b7 Local-first prompt vault for Windows",
       "language": "TypeScript",
-      "stars": 322,
+      "stars": 323,
       "topics": [
         "desktop-app",
         "local-first",
@@ -2362,7 +2573,7 @@
       "url": "https://github.com/haydenschmitty/floorplan",
       "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "language": "JavaScript",
-      "stars": 3746,
+      "stars": 4025,
       "topics": [
         "ai-coding",
         "architecture-diagram",
@@ -2375,7 +2586,7 @@
       ],
       "bucket": "Dev tools",
       "created_at": "2026-10-27",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "first_seen": "2026-10-29"
     },
     {
@@ -2383,7 +2594,7 @@
       "url": "https://github.com/zeabur-oss/zeabur",
       "description": "Self-hosted PaaS on your own Kubernetes.",
       "language": "Rust",
-      "stars": 672,
+      "stars": 678,
       "topics": [
         "databases",
         "deployment",
@@ -2396,7 +2607,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-10-24",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-29"
     },
     {
@@ -2404,7 +2615,7 @@
       "url": "https://github.com/jmanico/grim-prompter",
       "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
       "language": null,
-      "stars": 416,
+      "stars": 424,
       "topics": [
         "ai-agents",
         "appsec",
@@ -2425,7 +2636,7 @@
       "url": "https://github.com/k8s-servant/k8s-skills",
       "description": "Read-only Kubernetes troubleshooting skills for Claude Code, Codex, Gemini CLI and Copilot. Each one tested by an agent on a real kind cluster.",
       "language": "Shell",
-      "stars": 37,
+      "stars": 38,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -2467,7 +2678,7 @@
       "url": "https://github.com/patch-gg/anymove",
       "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
       "language": "Python",
-      "stars": 580,
+      "stars": 585,
       "topics": [
         "agent-skills",
         "animation",
@@ -2480,7 +2691,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-27",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-28"
     },
     {
@@ -2488,7 +2699,7 @@
       "url": "https://github.com/JunWan666/astrbot-for-android",
       "description": "\u5728 Android \u624b\u673a\u4e0a\u672c\u5730\u90e8\u7f72\u548c\u7ba1\u7406 AstrBot \u4e0e NapCat\uff0c\u5185\u7f6e PRoot Ubuntu \u8fd0\u884c\u73af\u5883\uff0c\u652f\u6301\u539f\u751f\u7ba1\u7406\u754c\u9762\u3001WebUI\u3001\u65e5\u5fd7\u3001\u5907\u4efd\u6062\u590d\u548c\u72ec\u7acb\u66f4\u65b0\uff0c\u65e0\u9700 Root\u3002",
       "language": "Kotlin",
-      "stars": 370,
+      "stars": 375,
       "topics": [
         "ai",
         "android",
@@ -2509,7 +2720,7 @@
       "url": "https://github.com/sanjayadanushka712/TaskFlow",
       "description": "End-to-end DevOps TaskFlow API \u2014 FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose, Pytest and GitHub Actions CI,Kubernetes,prometheus,Grafana,helm,k9s,kompose,minikube,helmify",
       "language": "Python",
-      "stars": 138,
+      "stars": 139,
       "topics": [
         "alembic",
         "docker",
@@ -2526,32 +2737,11 @@
       "first_seen": "2026-10-28"
     },
     {
-      "full_name": "huaxialucaicaizi/ai-startup-skills",
-      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-      "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
-      "language": "Python",
-      "stars": 924,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "business-plan",
-        "claude-code",
-        "codex",
-        "cursor",
-        "entrepreneurship",
-        "growth"
-      ],
-      "bucket": "AI tooling",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-11",
-      "first_seen": "2026-10-27"
-    },
-    {
       "full_name": "yaojingang/GEOInflow",
       "url": "https://github.com/yaojingang/GEOInflow",
       "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
       "language": "TypeScript",
-      "stars": 839,
+      "stars": 846,
       "topics": [
         "ai-analytics",
         "geo",
@@ -2562,28 +2752,7 @@
       ],
       "bucket": "Infrastructure",
       "created_at": "2026-10-26",
-      "pushed_at": "2026-11-03",
-      "first_seen": "2026-10-27"
-    },
-    {
-      "full_name": "liuhaisi2026212-maker/taishang-laojun",
-      "url": "https://github.com/liuhaisi2026212-maker/taishang-laojun",
-      "description": "\u592a\u4e0a\u8001\u541b\u00b7AI\u70bc\u4e39\u7089\uff1a\u6296\u97f3/\u5c0f\u7ea2\u4e66\u77ed\u89c6\u9891\u521b\u4f5c Skill\u3002\u4e0d\u77e5\u9053\u62cd\u5565\u3001\u4e0d\u4f1a\u5199\u7a3f\uff0c\u4e22\u7ed9\u4f60\u7684 AI\uff1a\u627e\u5bf9\u6807\u62c6\u7206\u6b3e\u3001\u9009\u9898\u3001\u7cfb\u5217\u7b56\u5212\u3001\u53e3\u64ad\u7a3f\u3001\u6807\u9898\u3001\u590d\u76d8\u3001\u53bbAI\u5473\u3002Claude Code / Codex \u7b49 npx \u4e00\u884c\u5b89\u88c5\uff0c\u8c46\u5305\u7b49\u804a\u5929\u667a\u80fd\u4f53\u7528 Bot \u7248\u3002",
-      "language": "Markdown",
-      "stars": 552,
-      "topics": [
-        "agent-skills",
-        "ai-writing",
-        "chinese",
-        "claude-skills",
-        "codex-skills",
-        "content-creation",
-        "copywriting",
-        "douyin"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-08",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-27"
     },
     {
@@ -2591,7 +2760,7 @@
       "url": "https://github.com/patch-gg/trompe",
       "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
       "language": "TypeScript",
-      "stars": 215,
+      "stars": 216,
       "topics": [
         "gamedev",
         "generative-ai",
@@ -2602,28 +2771,7 @@
       ],
       "bucket": "LLM / GenAI",
       "created_at": "2026-10-25",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-10-27"
-    },
-    {
-      "full_name": "stockedge/manga-generator",
-      "url": "https://github.com/stockedge/manga-generator",
-      "description": "\u539f\u4f5c\u304b\u3089\u811a\u672c\u30fb\u753b\u50cf\u751f\u6210\u30fb\u7d44\u7248\u30fbPDF\u51fa\u529b\u307e\u3067\u9032\u3081\u308b\u3001Codex\u5411\u3051\u6f2b\u753b\u5236\u4f5c\u30c4\u30fc\u30eb",
-      "language": "JavaScript",
-      "stars": 168,
-      "topics": [
-        "ai-agents",
-        "ai-comic",
-        "ai-comics",
-        "ai-manga",
-        "character-consistency",
-        "claude-code",
-        "codex",
-        "comfyui"
-      ],
-      "bucket": "LLM / GenAI",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-06",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-27"
     },
     {
@@ -2631,7 +2779,7 @@
       "url": "https://github.com/hevnsnt/CVEngine",
       "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
       "language": "Python",
-      "stars": 711,
+      "stars": 713,
       "topics": [
         "ai",
         "attack-surface-management",
@@ -2644,7 +2792,7 @@
       ],
       "bucket": "AI tooling",
       "created_at": "2026-10-24",
-      "pushed_at": "2026-11-12",
+      "pushed_at": "2026-11-13",
       "first_seen": "2026-10-26"
     },
     {
@@ -2652,7 +2800,7 @@
       "url": "https://github.com/Cattmonkey/ChaosIntelligence",
       "description": "\u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
       "language": "Python",
-      "stars": 392,
+      "stars": 410,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -2688,74 +2836,11 @@
       "first_seen": "2026-10-26"
     },
     {
-      "full_name": "peterhoang1103991-cmd/pilot-ai-ticket-shipper",
-      "url": "https://github.com/peterhoang1103991-cmd/pilot-ai-ticket-shipper",
-      "description": "pilot: AI That Ships Your Tickets for Automated Development",
-      "language": "HTML",
-      "stars": 58,
-      "topics": [
-        "agentic",
-        "agentic-workflow",
-        "ai-agent",
-        "ai-bots",
-        "ai-tools",
-        "autonomous-coding",
-        "claude",
-        "claude-code"
-      ],
-      "bucket": "Dev tools",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "full_name": "Eljot19/runic",
-      "url": "https://github.com/Eljot19/runic",
-      "description": "Runic macOS Menu Bar App for AI Usage Cost and Token Tracking",
-      "language": "HTML",
-      "stars": 58,
-      "topics": [
-        "ai",
-        "anthropic",
-        "claude",
-        "codex",
-        "cost-tracking",
-        "developer-tools",
-        "gemini",
-        "llm"
-      ],
-      "bucket": "Infrastructure",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "full_name": "TELECOM786/cablebag",
-      "url": "https://github.com/TELECOM786/cablebag",
-      "description": "Unified SSH RDP VNC Telnet Serial SFTP FTP WSL Proxmox Client with Per-Session WireGuard",
-      "language": "Go",
-      "stars": 58,
-      "topics": [
-        "connection-manager",
-        "homelab",
-        "mobaxterm-alternative",
-        "msp",
-        "proxmox",
-        "putty-alternative",
-        "rdp-client",
-        "remote-desktop"
-      ],
-      "bucket": "Infrastructure",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-11-12",
-      "first_seen": "2026-10-26"
-    },
-    {
       "full_name": "oscarlosu-lab/USBAnywhere",
       "url": "https://github.com/oscarlosu-lab/USBAnywhere",
       "description": "\ud83c\udf10 The Free, Open-Source VirtualHere Alternative for Windows & Linux \u2014 Connect unlimited USB devices over LAN, Wi-Fi & Internet (Low-Latency WSK, 1-Click Pi Setup, WHQL Drivers)",
       "language": "C#",
-      "stars": 147,
+      "stars": 148,
       "topics": [
         "cloud-gaming",
         "dotnet",
@@ -2769,27 +2854,6 @@
       "bucket": "Infrastructure",
       "created_at": "2026-10-24",
       "pushed_at": "2026-11-11",
-      "first_seen": "2026-10-25"
-    },
-    {
-      "full_name": "MultiX0/ip-nas",
-      "url": "https://github.com/MultiX0/ip-nas",
-      "description": "Raspberry Pi 5 home NAS: CasaOS apps, Nur Hub and the Nur app (local AI, Fish Audio voice), a 3D-printed case and an ESP32-S3 touch screen",
-      "language": "Dart",
-      "stars": 92,
-      "topics": [
-        "3d-printing",
-        "casaos",
-        "docker",
-        "esp32-s3",
-        "fish-audio",
-        "flutter",
-        "home-server",
-        "homelab"
-      ],
-      "bucket": "Infrastructure",
-      "created_at": "2026-10-22",
-      "pushed_at": "2026-10-25",
       "first_seen": "2026-10-25"
     }
   ]
