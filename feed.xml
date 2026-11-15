@@ -5,8 +5,248 @@
     <link>https://nerfherder16.github.io/trending-ai-feed/</link>
     <description>Recently-created, fast-rising GitHub repos across LLM/GenAI, AI tooling, dev tools, and infrastructure. Refreshed daily.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:24:29 +0000</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Topkiflare74/ai--manus2.0 — ★678</title>
+      <link>https://github.com/Topkiflare74/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/Topkiflare74/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★678, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>trackboatwrightplan/GitHub-Copilot-app — ★672</title>
+      <link>https://github.com/trackboatwrightplan/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/trackboatwrightplan/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★672, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TrapAccountant/GitHub-Copilot-app — ★670</title>
+      <link>https://github.com/TrapAccountant/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/TrapAccountant/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★670, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>topapothecarycanal/ai--manus2.0 — ★666</title>
+      <link>https://github.com/topapothecarycanal/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/topapothecarycanal/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★666, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>trackersnailgrip/GitHub-Copilot-app — ★666</title>
+      <link>https://github.com/trackersnailgrip/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/trackersnailgrip/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★666, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>toppatronweave/GitHub-Copilot-app — ★666</title>
+      <link>https://github.com/toppatronweave/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/toppatronweave/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★666, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>toppatronweave/ai--manus2.0 — ★665</title>
+      <link>https://github.com/toppatronweave/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/toppatronweave/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★665, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TradesmanRecord/GitHub-Copilot-app — ★665</title>
+      <link>https://github.com/TradesmanRecord/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/TradesmanRecord/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★665, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TrapBladesmith/GitHub-Copilot-app — ★664</title>
+      <link>https://github.com/TrapBladesmith/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/TrapBladesmith/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★664, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TurkeyDesignate/GitHub-Copilot-app — ★664</title>
+      <link>https://github.com/TurkeyDesignate/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/TurkeyDesignate/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★664, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TurquoiseConsultant/GitHub-Copilot-app — ★664</title>
+      <link>https://github.com/TurquoiseConsultant/GitHub-Copilot-app</link>
+      <guid isPermaLink="true">https://github.com/TurquoiseConsultant/GitHub-Copilot-app</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. (★664, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>topconstableinlet67/ai--manus2.0 — ★663</title>
+      <link>https://github.com/topconstableinlet67/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/topconstableinlet67/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★663, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>tornadonovicewhirl40/ai--manus2.0 — ★659</title>
+      <link>https://github.com/tornadonovicewhirl40/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/tornadonovicewhirl40/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★659, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TitanShieldRavine/ai--manus2.0 — ★659</title>
+      <link>https://github.com/TitanShieldRavine/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/TitanShieldRavine/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★659, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>Ultimateakiln/ai--manus2.0 — ★654</title>
+      <link>https://github.com/Ultimateakiln/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/Ultimateakiln/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★654, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>trackersnailgrip/ai--manus2.0 — ★654</title>
+      <link>https://github.com/trackersnailgrip/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/trackersnailgrip/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★654, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TrapBladesmith/ai--manus2.0 — ★653</title>
+      <link>https://github.com/TrapBladesmith/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/TrapBladesmith/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★653, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>Torusdrasocket/ai--manus2.0 — ★653</title>
+      <link>https://github.com/Torusdrasocket/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/Torusdrasocket/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★653, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>TremorRatTackle/ai--manus2.0 — ★652</title>
+      <link>https://github.com/TremorRatTackle/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/TremorRatTackle/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★652, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>taboospecialistblade/ai--manus2.0 — ★651</title>
+      <link>https://github.com/taboospecialistblade/ai--manus2.0</link>
+      <guid isPermaLink="true">https://github.com/taboospecialistblade/ai--manus2.0</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★651, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>hugues31/duckpad — ★319</title>
+      <link>https://github.com/hugues31/duckpad</link>
+      <guid isPermaLink="true">https://github.com/hugues31/duckpad</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] The data transformation tool the open-source community deserves. (★319, Python, created 2026-10-25)</description>
+    </item>
+    <item>
+      <title>Balanov/shim — ★192</title>
+      <link>https://github.com/Balanov/shim</link>
+      <guid isPermaLink="true">https://github.com/Balanov/shim</guid>
+      <category>Dev tools</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT. (★192, Go, created 2026-11-02)</description>
+    </item>
+    <item>
+      <title>orderesworks42213/crypto-rpocket-accumulation-scanner — ★50</title>
+      <link>https://github.com/orderesworks42213/crypto-rpocket-accumulation-scanner</link>
+      <guid isPermaLink="true">https://github.com/orderesworks42213/crypto-rpocket-accumulation-scanner</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts. (★50, HTML, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>CryAceocean/solgov-rpocket-team — ★50</title>
+      <link>https://github.com/CryAceocean/solgov-rpocket-team</link>
+      <guid isPermaLink="true">https://github.com/CryAceocean/solgov-rpocket-team</guid>
+      <category>AI tooling</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] Public security layer for Solana DeFi. Reads multisig setups, timelocks, upgrade authorities and signer activity straight from chain across 50+ protocols, flagging the governance risks audits don't catch after deployment. Built after the Drift exploit. Open source, free, no token. (★50, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>Omegaiosagittarius89692/cmangos-rpocket-helm — ★50</title>
+      <link>https://github.com/Omegaiosagittarius89692/cmangos-rpocket-helm</link>
+      <guid isPermaLink="true">https://github.com/Omegaiosagittarius89692/cmangos-rpocket-helm</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Helm chart and images for CMaNGOS: WoW Classic (1.12.1), TBC (2.4.3) and WotLK (3.3.5a) (★50, —, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>martian56/tessery — ★49</title>
+      <link>https://github.com/martian56/tessery</link>
+      <guid isPermaLink="true">https://github.com/martian56/tessery</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Self-hosted platform to design software systems visually, generate their code and deploy them from development to production. (★49, TypeScript, created 2026-11-12)</description>
+    </item>
+    <item>
+      <title>mit-han-lab/EvolvingInfra — ★45</title>
+      <link>https://github.com/mit-han-lab/EvolvingInfra</link>
+      <guid isPermaLink="true">https://github.com/mit-han-lab/EvolvingInfra</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] A inference framework that adapt to diverse and dynamic agent workload (★45, Python, created 2026-11-10)</description>
+    </item>
+    <item>
+      <title>DasCondor/kubefactory — ★34</title>
+      <link>https://github.com/DasCondor/kubefactory</link>
+      <guid isPermaLink="true">https://github.com/DasCondor/kubefactory</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] A first-person factory game that views and manages your Kubernetes clusters and Docker containers (★34, GDScript, created 2026-11-13)</description>
+    </item>
+    <item>
+      <title>sourpatchdad/patchboard — ★34</title>
+      <link>https://github.com/sourpatchdad/patchboard</link>
+      <guid isPermaLink="true">https://github.com/sourpatchdad/patchboard</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] A control center and start page for a home server: what needs you, live numbers, and the fix one click away. (★34, TypeScript, created 2026-11-04)</description>
+    </item>
+    <item>
+      <title>simranjeet97/AI_Engineer_Roadmap_2027 — ★30</title>
+      <link>https://github.com/simranjeet97/AI_Engineer_Roadmap_2027</link>
+      <guid isPermaLink="true">https://github.com/simranjeet97/AI_Engineer_Roadmap_2027</guid>
+      <category>Infrastructure</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] A 10-week, staff-level curriculum and engineering roadmap focused on LLM inference systems, serving physics, custom kernels, disaggregated architectures, and production optimization. (★30, Jupyter Notebook, created 2026-11-07)</description>
+    </item>
     <item>
       <title>Vesuvio1/display-fusion — ★1.2k</title>
       <link>https://github.com/Vesuvio1/display-fusion</link>
@@ -16,20 +256,20 @@
       <description>[Dev tools] Display Fusion 2026 standalone desktop setup with complete feature configuration (★1.2k, HTML, created 2026-11-06)</description>
     </item>
     <item>
-      <title>hyperionaidev/smolmaxxing — ★662</title>
+      <title>hyperionaidev/smolmaxxing — ★715</title>
       <link>https://github.com/hyperionaidev/smolmaxxing</link>
       <guid isPermaLink="true">https://github.com/hyperionaidev/smolmaxxing</guid>
       <category>LLM / GenAI</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] maxxing the ability to run different LLMs on the smallest devices possible (★662, C, created 2026-11-04)</description>
+      <description>[LLM / GenAI] maxxing the ability to run different LLMs on the smallest devices possible (★715, C, created 2026-11-04)</description>
     </item>
     <item>
-      <title>rivet-dev/open-orange — ★487</title>
+      <title>rivet-dev/open-orange — ★571</title>
       <link>https://github.com/rivet-dev/open-orange</link>
       <guid isPermaLink="true">https://github.com/rivet-dev/open-orange</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers. (★487, TypeScript, created 2026-11-12)</description>
+      <description>[Infrastructure] Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers. (★571, TypeScript, created 2026-11-12)</description>
     </item>
     <item>
       <title>duyunzhoudyz/dyz-med-paper-skills — ★370</title>
@@ -40,148 +280,28 @@
       <description>[LLM / GenAI] 面向中国医生与医学研究生的医学论文写作 Agent Skills：32 个技能覆盖 PubMed 文献检索、统计分析、中英写作、选刊投稿与审稿修回，适用于 Claude Code、Codex。Medical writing skills for Claude Code &amp; Codex. (★370, Python, created 2026-11-01)</description>
     </item>
     <item>
-      <title>Beigeloencoder/ai--manus — ★266</title>
-      <link>https://github.com/Beigeloencoder/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/Beigeloencoder/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>BladesmithPanel/ai--manus — ★266</title>
-      <link>https://github.com/BladesmithPanel/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/BladesmithPanel/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>AdvisorShake/ai--manus — ★266</title>
-      <link>https://github.com/AdvisorShake/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/AdvisorShake/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>bravecrownvalve/ai--manus — ★266</title>
-      <link>https://github.com/bravecrownvalve/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/bravecrownvalve/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>Boldpleinverter/ai--manus — ★266</title>
-      <link>https://github.com/Boldpleinverter/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/Boldpleinverter/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>Archiveeutrough/ai--manus — ★266</title>
-      <link>https://github.com/Archiveeutrough/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/Archiveeutrough/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>Boardglacode/ai--manus — ★266</title>
-      <link>https://github.com/Boardglacode/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/Boardglacode/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>ArcticPrawnEmporium/ai--manus — ★266</title>
-      <link>https://github.com/ArcticPrawnEmporium/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/ArcticPrawnEmporium/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>HurricaneMonarchDart/ai--manus — ★266</title>
-      <link>https://github.com/HurricaneMonarchDart/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/HurricaneMonarchDart/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>GryphonEmpress/ai--manus — ★266</title>
-      <link>https://github.com/GryphonEmpress/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/GryphonEmpress/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>Boarddrunail/ai--manus — ★266</title>
-      <link>https://github.com/Boarddrunail/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/Boarddrunail/ai--manus</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>AdmiralEmporium/ai--manus — ★266</title>
-      <link>https://github.com/AdmiralEmporium/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/AdmiralEmporium/ai--manus</guid>
-      <category>AI tooling</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>TorusBarbarianMap9/ai--manus — ★266</title>
-      <link>https://github.com/TorusBarbarianMap9/ai--manus</link>
-      <guid isPermaLink="true">https://github.com/TorusBarbarianMap9/ai--manus</guid>
-      <category>AI tooling</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. (★266, —, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>erensrtky/cogit — ★172</title>
+      <title>erensrtky/cogit — ★183</title>
       <link>https://github.com/erensrtky/cogit</link>
       <guid isPermaLink="true">https://github.com/erensrtky/cogit</guid>
       <category>Dev tools</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Git for the intent behind agent-written code. Records what your coding agent decided and why, and links every commit to it. (★172, TypeScript, created 2026-10-27)</description>
+      <description>[Dev tools] Git for the intent behind agent-written code. Records what your coding agent decided and why, and links every commit to it. (★183, TypeScript, created 2026-10-27)</description>
     </item>
     <item>
-      <title>DiplomatHearth/roblox-ai-place-diff — ★155</title>
-      <link>https://github.com/DiplomatHearth/roblox-ai-place-diff</link>
-      <guid isPermaLink="true">https://github.com/DiplomatHearth/roblox-ai-place-diff</guid>
-      <category>Dev tools</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Every change this Roblox Studio agent makes is a place diff you approve first. Rewind any turn with one Ctrl+Z, playtests run on a copy so live data never moves. (★155, Rust, created 2026-10-30)</description>
-    </item>
-    <item>
-      <title>spacesky-cell/TwinFix — ★50</title>
+      <title>spacesky-cell/TwinFix — ★85</title>
       <link>https://github.com/spacesky-cell/TwinFix</link>
       <guid isPermaLink="true">https://github.com/spacesky-cell/TwinFix</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 (★50, Python, created 2026-11-13)</description>
+      <description>[Infrastructure] TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 (★85, Python, created 2026-11-13)</description>
     </item>
     <item>
-      <title>johnpsasser/lifeboat — ★43</title>
-      <link>https://github.com/johnpsasser/lifeboat</link>
-      <guid isPermaLink="true">https://github.com/johnpsasser/lifeboat</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Offline emergency assistant: a local LLM and a 200 GB offline library on one Mac, with cited answers and no internet. (★43, Python, created 2026-11-03)</description>
-    </item>
-    <item>
-      <title>ATLURI0001/target-reconciliation-service — ★43</title>
+      <title>ATLURI0001/target-reconciliation-service — ★49</title>
       <link>https://github.com/ATLURI0001/target-reconciliation-service</link>
       <guid isPermaLink="true">https://github.com/ATLURI0001/target-reconciliation-service</guid>
       <category>Infrastructure</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Kubernetes-native reliability control plane orchestrating policy-driven reconciliation, automated workload recovery, failure remediation, and auditable infrastructure operations. (★43, Go, created 2026-11-12)</description>
+      <description>[Infrastructure] Kubernetes-native reliability control plane orchestrating policy-driven reconciliation, automated workload recovery, failure remediation, and auditable infrastructure operations. (★49, Go, created 2026-11-12)</description>
     </item>
     <item>
       <title>kcgeekedup-hash/delta-force-trainer-tool — ★1.2k</title>
@@ -200,68 +320,68 @@
       <description>[Dev tools] Designcenter-NX: Full-Feature Desktop Installer for Immediate Deployment (★1.2k, HTML, created 2026-11-06)</description>
     </item>
     <item>
-      <title>serveroshq/panel — ★766</title>
+      <title>serveroshq/panel — ★823</title>
       <link>https://github.com/serveroshq/panel</link>
       <guid isPermaLink="true">https://github.com/serveroshq/panel</guid>
       <category>Infrastructure</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] The open source ServerOS panel: one place to run the Linux servers you already own. (★766, PHP, created 2026-11-09)</description>
+      <description>[Infrastructure] The open source ServerOS panel: one place to run the Linux servers you already own. (★823, PHP, created 2026-11-09)</description>
     </item>
     <item>
-      <title>jackson-cmd/risk-aware-trading-agents — ★116</title>
+      <title>jackson-cmd/risk-aware-trading-agents — ★143</title>
       <link>https://github.com/jackson-cmd/risk-aware-trading-agents</link>
       <guid isPermaLink="true">https://github.com/jackson-cmd/risk-aware-trading-agents</guid>
       <category>LLM / GenAI</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测 · LLM 榜单 (★116, Python, created 2026-11-12)</description>
+      <description>[LLM / GenAI] AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测 · LLM 榜单 (★143, Python, created 2026-11-12)</description>
     </item>
     <item>
-      <title>IluvatarLabs/sitrep — ★90</title>
-      <link>https://github.com/IluvatarLabs/sitrep</link>
-      <guid isPermaLink="true">https://github.com/IluvatarLabs/sitrep</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you. (★90, TypeScript, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>BalthDreadgrid20608/events-rpocket-tracker — ★66</title>
+      <title>BalthDreadgrid20608/events-rpocket-tracker — ★96</title>
       <link>https://github.com/BalthDreadgrid20608/events-rpocket-tracker</link>
       <guid isPermaLink="true">https://github.com/BalthDreadgrid20608/events-rpocket-tracker</guid>
       <category>LLM / GenAI</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Team calendar &amp; tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule. (★66, —, created 2026-11-05)</description>
+      <description>[LLM / GenAI] Team calendar &amp; tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule. (★96, —, created 2026-11-05)</description>
     </item>
     <item>
-      <title>Vespermagnet/jet-reports-skill-rpocket — ★64</title>
+      <title>Vespermagnet/jet-reports-skill-rpocket — ★94</title>
       <link>https://github.com/Vespermagnet/jet-reports-skill-rpocket</link>
       <guid isPermaLink="true">https://github.com/Vespermagnet/jet-reports-skill-rpocket</guid>
       <category>Infrastructure</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Claude Code skill: describe a Jet Reports workbook, get a ready-to-run .xlsx (for example NAV / Business Central) (★64, HTML, created 2026-11-05)</description>
+      <description>[Infrastructure] Claude Code skill: describe a Jet Reports workbook, get a ready-to-run .xlsx (for example NAV / Business Central) (★94, HTML, created 2026-11-05)</description>
     </item>
     <item>
-      <title>PuzzleomJade/pursr-rpocket — ★60</title>
+      <title>IluvatarLabs/sitrep — ★91</title>
+      <link>https://github.com/IluvatarLabs/sitrep</link>
+      <guid isPermaLink="true">https://github.com/IluvatarLabs/sitrep</guid>
+      <category>Infrastructure</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you. (★91, TypeScript, created 2026-11-12)</description>
+    </item>
+    <item>
+      <title>PuzzleomJade/pursr-rpocket — ★90</title>
       <link>https://github.com/PuzzleomJade/pursr-rpocket</link>
       <guid isPermaLink="true">https://github.com/PuzzleomJade/pursr-rpocket</guid>
       <category>Dev tools</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Visual QA, browser automation, accessibility auditing, screenshot diffing, and MCP tooling for coding agents. (★60, HTML, created 2026-11-05)</description>
+      <description>[Dev tools] Visual QA, browser automation, accessibility auditing, screenshot diffing, and MCP tooling for coding agents. (★90, HTML, created 2026-11-05)</description>
     </item>
     <item>
-      <title>levi-xy/vantage — ★55</title>
-      <link>https://github.com/levi-xy/vantage</link>
-      <guid isPermaLink="true">https://github.com/levi-xy/vantage</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Self-hosted, security-first dashboard for homelabs: live network maps, hardware-shaped cards, Telegram alerts. (★55, Python, created 2026-10-26)</description>
-    </item>
-    <item>
-      <title>SealarMeteor/telegram-channel-rpocket-forwarder-ai — ★52</title>
+      <title>SealarMeteor/telegram-channel-rpocket-forwarder-ai — ★83</title>
       <link>https://github.com/SealarMeteor/telegram-channel-rpocket-forwarder-ai</link>
       <guid isPermaLink="true">https://github.com/SealarMeteor/telegram-channel-rpocket-forwarder-ai</guid>
       <category>AI tooling</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows. (★52, HTML, created 2026-10-31)</description>
+      <description>[AI tooling] Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows. (★83, HTML, created 2026-10-31)</description>
+    </item>
+    <item>
+      <title>levi-xy/vantage — ★59</title>
+      <link>https://github.com/levi-xy/vantage</link>
+      <guid isPermaLink="true">https://github.com/levi-xy/vantage</guid>
+      <category>Infrastructure</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Self-hosted, security-first dashboard for homelabs: live network maps, hardware-shaped cards, Telegram alerts. (★59, Python, created 2026-10-26)</description>
     </item>
     <item>
       <title>melgoldstein/agent-blackbox — ★46</title>
@@ -288,20 +408,20 @@
       <description>[Infrastructure] A phone-first Glance dashboard for a self-hosted home: animated weather, Home Assistant, media, NAS status, Paperless search, offline Mealie list (★38, Python, created 2026-11-01)</description>
     </item>
     <item>
-      <title>jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack — ★30</title>
+      <title>jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack — ★32</title>
       <link>https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack</link>
       <guid isPermaLink="true">https://github.com/jaiswaladi246/DevOps-Cloud-Interview-Preparation-by-DevOps-Shack</guid>
       <category>Infrastructure</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] 13,200 DevOps &amp; Cloud interview Q&amp;As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Azure, DevSecOps, SRE &amp; more. By DevOps Shack (youtube.com/@devopsshack) (★30, —, created 2026-11-08)</description>
+      <description>[Infrastructure] 13,200 DevOps &amp; Cloud interview Q&amp;As + 20 hands-on labs + 500 assignments. Linux, Docker, K8s, CI/CD, Terraform, AWS, Azure, DevSecOps, SRE &amp; more. By DevOps Shack (youtube.com/@devopsshack) (★32, —, created 2026-11-08)</description>
     </item>
     <item>
-      <title>agentes-chat/agentes-chat — ★1.4k</title>
+      <title>agentes-chat/agentes-chat — ★1.5k</title>
       <link>https://github.com/agentes-chat/agentes-chat</link>
       <guid isPermaLink="true">https://github.com/agentes-chat/agentes-chat</guid>
       <category>LLM / GenAI</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (★1.4k, TypeScript, created 2026-11-09)</description>
+      <description>[LLM / GenAI] Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (★1.5k, TypeScript, created 2026-11-09)</description>
     </item>
     <item>
       <title>mahmoudtawfik1998/secure-pdf-document-processor — ★1.2k</title>
@@ -336,20 +456,20 @@
       <description>[Dev tools] Cubase Studio 2026 desktop setup with full plugin suite and complete feature set (★1.2k, HTML, created 2026-11-06)</description>
     </item>
     <item>
-      <title>Arda313131882/aion-2-trainer-tool — ★1.2k</title>
-      <link>https://github.com/Arda313131882/aion-2-trainer-tool</link>
-      <guid isPermaLink="true">https://github.com/Arda313131882/aion-2-trainer-tool</guid>
-      <category>Dev tools</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup (★1.2k, HTML, created 2026-11-06)</description>
-    </item>
-    <item>
       <title>ebtsamalhakmy-sketch/desktop-backup-suite — ★1.2k</title>
       <link>https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite</link>
       <guid isPermaLink="true">https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite</guid>
       <category>Dev tools</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>[Dev tools] Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite (★1.2k, TypeScript, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>Arda313131882/aion-2-trainer-tool — ★1.2k</title>
+      <link>https://github.com/Arda313131882/aion-2-trainer-tool</link>
+      <guid isPermaLink="true">https://github.com/Arda313131882/aion-2-trainer-tool</guid>
+      <category>Dev tools</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup (★1.2k, HTML, created 2026-11-06)</description>
     </item>
     <item>
       <title>tss878/delta-executor-toolkit — ★1.2k</title>
@@ -366,126 +486,6 @@
       <category>Dev tools</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>[Dev tools] daemon-pro: Complete Standalone Desktop Setup with Full Feature setup (★1.2k, HTML, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>TIGER-AI-Lab/WebsiteBench — ★362</title>
-      <link>https://github.com/TIGER-AI-Lab/WebsiteBench</link>
-      <guid isPermaLink="true">https://github.com/TIGER-AI-Lab/WebsiteBench</guid>
-      <category>AI tooling</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Can AI agents rebuild websites through browser exploration? (★362, Python, created 2026-11-04)</description>
-    </item>
-    <item>
-      <title>fujc683/gpt-image-2-6-commercial-use — ★103</title>
-      <link>https://github.com/fujc683/gpt-image-2-6-commercial-use</link>
-      <guid isPermaLink="true">https://github.com/fujc683/gpt-image-2-6-commercial-use</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Ownership, licensing and retention for GPT Image 2.6 output. (★103, —, created 2026-11-05)</description>
-    </item>
-    <item>
-      <title>8hjkkwikl8/ai-portfolio — ★101</title>
-      <link>https://github.com/8hjkkwikl8/ai-portfolio</link>
-      <guid isPermaLink="true">https://github.com/8hjkkwikl8/ai-portfolio</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析 (★101, Python, created 2026-11-11)</description>
-    </item>
-    <item>
-      <title>askvalet/valet — ★68</title>
-      <link>https://github.com/askvalet/valet</link>
-      <guid isPermaLink="true">https://github.com/askvalet/valet</guid>
-      <category>Infrastructure</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Talk to your homelab. A self-hosted, open-source, AI-native homepage. (★68, TypeScript, created 2026-10-29)</description>
-    </item>
-    <item>
-      <title>phonny40rowle/rag-search — ★51</title>
-      <link>https://github.com/phonny40rowle/rag-search</link>
-      <guid isPermaLink="true">https://github.com/phonny40rowle/rag-search</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] A self-hosted retrieval-augmented search API: web search, content extraction, embeddings, and answer generation. (★51, Python, created 2026-11-05)</description>
-    </item>
-    <item>
-      <title>mdiri-ai/SoduWork — ★760</title>
-      <link>https://github.com/mdiri-ai/SoduWork</link>
-      <guid isPermaLink="true">https://github.com/mdiri-ai/SoduWork</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted. (★760, JavaScript, created 2026-10-29)</description>
-    </item>
-    <item>
-      <title>Future-Proof-DS/interactive-ai-ml-tools — ★258</title>
-      <link>https://github.com/Future-Proof-DS/interactive-ai-ml-tools</link>
-      <guid isPermaLink="true">https://github.com/Future-Proof-DS/interactive-ai-ml-tools</guid>
-      <category>AI tooling</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals. (★258, —, created 2026-11-02)</description>
-    </item>
-    <item>
-      <title>ValidatorStack/solana-vigil — ★230</title>
-      <link>https://github.com/ValidatorStack/solana-vigil</link>
-      <guid isPermaLink="true">https://github.com/ValidatorStack/solana-vigil</guid>
-      <category>Infrastructure</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys. (★230, Go, created 2026-11-10)</description>
-    </item>
-    <item>
-      <title>bookleme/bookleme — ★221</title>
-      <link>https://github.com/bookleme/bookleme</link>
-      <guid isPermaLink="true">https://github.com/bookleme/bookleme</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验 (★221, Python, created 2026-11-09)</description>
-    </item>
-    <item>
-      <title>chiang21fcb/hygieia — ★91</title>
-      <link>https://github.com/chiang21fcb/hygieia</link>
-      <guid isPermaLink="true">https://github.com/chiang21fcb/hygieia</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Inspect, evaluate, and stress-test an existing semantic layer. Runs fully offline. (★91, Python, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>Veloresearch/kinetic — ★89</title>
-      <link>https://github.com/Veloresearch/kinetic</link>
-      <guid isPermaLink="true">https://github.com/Veloresearch/kinetic</guid>
-      <category>AI tooling</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] The open engine for running AI on your own computer. Fast, exact, open source. (★89, Rust, created 2026-11-10)</description>
-    </item>
-    <item>
-      <title>StaysUp/agentbus — ★37</title>
-      <link>https://github.com/StaysUp/agentbus</link>
-      <guid isPermaLink="true">https://github.com/StaysUp/agentbus</guid>
-      <category>Infrastructure</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Cross-vendor middleware for coding agents: every model call, its cost and the full conversation, through one gateway. (★37, Go, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>sec4si/ai2shell — ★32</title>
-      <link>https://github.com/sec4si/ai2shell</link>
-      <guid isPermaLink="true">https://github.com/sec4si/ai2shell</guid>
-      <category>AI tooling</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Research on tool-call parsing boundaries across model dialects, inference frameworks, and agents. (★32, C++, created 2026-10-30)</description>
-    </item>
-    <item>
-      <title>libracoder/kiri — ★2.6k</title>
-      <link>https://github.com/libracoder/kiri</link>
-      <guid isPermaLink="true">https://github.com/libracoder/kiri</guid>
-      <category>Infrastructure</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] A small, fast container runtime for macOS, Windows and Linux (★2.6k, Rust, created 2026-11-02)</description>
-    </item>
-    <item>
-      <title>RunanywhereAI/trnrt — ★1.6k</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="true">https://github.com/RunanywhereAI/trnrt</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. (★1.6k, Python, created 2026-10-30)</description>
     </item>
   </channel>
 </rss>
