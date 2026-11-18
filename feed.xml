@@ -5,71 +5,255 @@
     <link>https://nerfherder16.github.io/trending-ai-feed/</link>
     <description>Recently-created, fast-rising GitHub repos across LLM/GenAI, AI tooling, dev tools, and infrastructure. Refreshed daily.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:24:32 +0000</lastBuildDate>
     <ttl>720</ttl>
     <item>
-      <title>sybil-solutions/inference-optimisation-skill — ★530</title>
-      <link>https://github.com/sybil-solutions/inference-optimisation-skill</link>
-      <guid isPermaLink="true">https://github.com/sybil-solutions/inference-optimisation-skill</guid>
-      <category>AI tooling</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization (★530, Python, created 2026-11-16)</description>
+      <title>erkamyaman/rust-anything — ★2.3k</title>
+      <link>https://github.com/erkamyaman/rust-anything</link>
+      <guid isPermaLink="true">https://github.com/erkamyaman/rust-anything</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (★2.3k, Rust, created 2026-11-16)</description>
     </item>
     <item>
-      <title>TIGER-AI-Lab/WebsiteBench — ★495</title>
+      <title>RolandoV3/metatrader-5-bot — ★1.1k</title>
+      <link>https://github.com/RolandoV3/metatrader-5-bot</link>
+      <guid isPermaLink="true">https://github.com/RolandoV3/metatrader-5-bot</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Community-driven MetaTrader 5 bot with full features ready for desktop use (★1.1k, TypeScript, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>janitoff0/ninjatrader-bot — ★1.1k</title>
+      <link>https://github.com/janitoff0/ninjatrader-bot</link>
+      <guid isPermaLink="true">https://github.com/janitoff0/ninjatrader-bot</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>leanislizarzado/ibm-spss-desktop-suite — ★1.1k</title>
+      <link>https://github.com/leanislizarzado/ibm-spss-desktop-suite</link>
+      <guid isPermaLink="true">https://github.com/leanislizarzado/ibm-spss-desktop-suite</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>vishnu05-codes/ozone-12-advanced — ★1.1k</title>
+      <link>https://github.com/vishnu05-codes/ozone-12-advanced</link>
+      <guid isPermaLink="true">https://github.com/vishnu05-codes/ozone-12-advanced</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Ozone 12 Advanced: Professional Desktop Utility with Enhanced Configurations (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>angelonyn/chimera-desktop-suite — ★1.1k</title>
+      <link>https://github.com/angelonyn/chimera-desktop-suite</link>
+      <guid isPermaLink="true">https://github.com/angelonyn/chimera-desktop-suite</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Chimera: Pre-configured Desktop Utility Suite with Full Installer (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>shivsupratik/windows-optimizer — ★1.1k</title>
+      <link>https://github.com/shivsupratik/windows-optimizer</link>
+      <guid isPermaLink="true">https://github.com/shivsupratik/windows-optimizer</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Windows Optimizer: Advanced System Tweaks and Performance Enhancements (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>ilsa99/microsoft-365-desktop — ★1.1k</title>
+      <link>https://github.com/ilsa99/microsoft-365-desktop</link>
+      <guid isPermaLink="true">https://github.com/ilsa99/microsoft-365-desktop</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools (★1.1k, JavaScript, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>ayanprob/coreldraw-desktop-installer — ★1.1k</title>
+      <link>https://github.com/ayanprob/coreldraw-desktop-installer</link>
+      <guid isPermaLink="true">https://github.com/ayanprob/coreldraw-desktop-installer</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] CorelDraw 2026 Professional Desktop Installer with Ready-to-Run Utility Configuration (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>SirBonney/scrcpy-mirror-control — ★1.1k</title>
+      <link>https://github.com/SirBonney/scrcpy-mirror-control</link>
+      <guid isPermaLink="true">https://github.com/SirBonney/scrcpy-mirror-control</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Android Screen Mirroring and Control Workflow, Simplified (★1.1k, HTML, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>aa1143/NamiAgent — ★557</title>
+      <link>https://github.com/aa1143/NamiAgent</link>
+      <guid isPermaLink="true">https://github.com/aa1143/NamiAgent</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] 零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent (★557, Python, created 2026-10-30)</description>
+    </item>
+    <item>
+      <title>wisemeadowlarkspike/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Go, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>Watchlespeed/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/Watchlespeed/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/Watchlespeed/Gemini-Config-Checker-</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>fujc683/seedance-2-5-flash-pricing — ★216</title>
+      <link>https://github.com/fujc683/seedance-2-5-flash-pricing</link>
+      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-pricing</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Seedance 2.5 Flash cost per second of video, with comparisons. (★216, —, created 2026-11-16)</description>
+    </item>
+    <item>
+      <title>fujc683/seedance-2-5-flash-camera-movements — ★209</title>
+      <link>https://github.com/fujc683/seedance-2-5-flash-camera-movements</link>
+      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-camera-movements</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] 12 camera moves for text-to-video, with copy-paste prompt phrases. (★209, —, created 2026-11-16)</description>
+    </item>
+    <item>
+      <title>fujc683/seedance-2-5-flash-reference-video — ★208</title>
+      <link>https://github.com/fujc683/seedance-2-5-flash-reference-video</link>
+      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-reference-video</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Control Seedance 2.5 Flash motion with a first frame or reference clip. (★208, —, created 2026-11-16)</description>
+    </item>
+    <item>
+      <title>Nihongo-editor/crypto-accumulation-scanner — ★153</title>
+      <link>https://github.com/Nihongo-editor/crypto-accumulation-scanner</link>
+      <guid isPermaLink="true">https://github.com/Nihongo-editor/crypto-accumulation-scanner</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Community-driven crypto accumulation scanner for Discord and Telegram rich (★153, TypeScript, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>FIlIP-C3/events-tracker — ★153</title>
+      <link>https://github.com/FIlIP-C3/events-tracker</link>
+      <guid isPermaLink="true">https://github.com/FIlIP-C3/events-tracker</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Events Tracker: Team Calendar and Event Management Platform (★153, TypeScript, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>bryanwalter710-debug/solana-defi-security — ★153</title>
+      <link>https://github.com/bryanwalter710-debug/solana-defi-security</link>
+      <guid isPermaLink="true">https://github.com/bryanwalter710-debug/solana-defi-security</guid>
+      <category>AI tooling</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] Solana DeFi Security: On-Chain Governance Risk Analysis for Multisig, Timelock, and Upgrade Authorit (★153, Go, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>jc4603/telegram-channel-forwarder — ★153</title>
+      <link>https://github.com/jc4603/telegram-channel-forwarder</link>
+      <guid isPermaLink="true">https://github.com/jc4603/telegram-channel-forwarder</guid>
+      <category>AI tooling</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[AI tooling] Automated Telegram channel forwarder and content rewriter with zero latency for Windows (★153, HTML, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>mmclucknorrismm/cmangos-helm — ★153</title>
+      <link>https://github.com/mmclucknorrismm/cmangos-helm</link>
+      <guid isPermaLink="true">https://github.com/mmclucknorrismm/cmangos-helm</guid>
+      <category>Infrastructure</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] CMaNGOS Helm: Wield the Helm, Command Your Realm (★153, HTML, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>Realmeshowroom/jet-reports-skill — ★153</title>
+      <link>https://github.com/Realmeshowroom/jet-reports-skill</link>
+      <guid isPermaLink="true">https://github.com/Realmeshowroom/jet-reports-skill</guid>
+      <category>Infrastructure</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Jet Reports Skill: Visual Workbook Workflows NAV and Business Central (★153, TypeScript, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>replit/datacat — ★84</title>
+      <link>https://github.com/replit/datacat</link>
+      <guid isPermaLink="true">https://github.com/replit/datacat</guid>
+      <category>Infrastructure</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data. (★84, TypeScript, created 2026-11-17)</description>
+    </item>
+    <item>
+      <title>hackclub/orchard — ★41</title>
+      <link>https://github.com/hackclub/orchard</link>
+      <guid isPermaLink="true">https://github.com/hackclub/orchard</guid>
+      <category>Infrastructure</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command. (★41, TypeScript, created 2026-11-17)</description>
+    </item>
+    <item>
+      <title>talgent-work/workbench — ★38</title>
+      <link>https://github.com/talgent-work/workbench</link>
+      <guid isPermaLink="true">https://github.com/talgent-work/workbench</guid>
+      <category>Infrastructure</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Open-source managed agents you host yourself: your own AI Agent for real work, every Work in its own sandbox on your infrastructure. (★38, Go, created 2026-11-06)</description>
+    </item>
+    <item>
+      <title>oriliz/agent-crop — ★34</title>
+      <link>https://github.com/oriliz/agent-crop</link>
+      <guid isPermaLink="true">https://github.com/oriliz/agent-crop</guid>
+      <category>Dev tools</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Dev tools] 给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex. (★34, Python, created 2026-11-14)</description>
+    </item>
+    <item>
+      <title>sybil-solutions/inference-optimisation-skill — ★1k</title>
+      <link>https://github.com/sybil-solutions/inference-optimisation-skill</link>
+      <guid isPermaLink="true">https://github.com/sybil-solutions/inference-optimisation-skill</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization (★1k, Python, created 2026-11-16)</description>
+    </item>
+    <item>
+      <title>TIGER-AI-Lab/WebsiteBench — ★525</title>
       <link>https://github.com/TIGER-AI-Lab/WebsiteBench</link>
       <guid isPermaLink="true">https://github.com/TIGER-AI-Lab/WebsiteBench</guid>
       <category>AI tooling</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Can AI agents rebuild websites through browser exploration? (★495, Python, created 2026-11-04)</description>
+      <description>[AI tooling] Can AI agents rebuild websites through browser exploration? (★525, Python, created 2026-11-04)</description>
     </item>
     <item>
-      <title>gabrielbuzziv/emissor-nfse-nacional — ★254</title>
-      <link>https://github.com/gabrielbuzziv/emissor-nfse-nacional</link>
-      <guid isPermaLink="true">https://github.com/gabrielbuzziv/emissor-nfse-nacional</guid>
-      <category>Infrastructure</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Emissor de NFS-e direto na API do Sistema Nacional NFS-e, sem custo por nota, rodando na sua conta da Cloudflare. (★254, TypeScript, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>DuskBotAI/duskbot — ★224</title>
+      <title>DuskBotAI/duskbot — ★343</title>
       <link>https://github.com/DuskBotAI/duskbot</link>
       <guid isPermaLink="true">https://github.com/DuskBotAI/duskbot</guid>
       <category>Infrastructure</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Free Grok Bot alternative that runs on your own models. Use the ChatGPT, Claude, or Grok subscription you already pay for, and get a team of bots each with its own memory and computer. (★224, TypeScript, created 2026-11-05)</description>
+      <description>[Infrastructure] Free Grok Bot alternative that runs on your own models. Use the ChatGPT, Claude, or Grok subscription you already pay for, and get a team of bots each with its own memory and computer. (★343, TypeScript, created 2026-11-05)</description>
     </item>
     <item>
-      <title>fujc683/seedance-2-5-flash-free-tier — ★187</title>
-      <link>https://github.com/fujc683/seedance-2-5-flash-free-tier</link>
-      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-free-tier</guid>
-      <category>LLM / GenAI</category>
+      <title>gabrielbuzziv/emissor-nfse-nacional — ★259</title>
+      <link>https://github.com/gabrielbuzziv/emissor-nfse-nacional</link>
+      <guid isPermaLink="true">https://github.com/gabrielbuzziv/emissor-nfse-nacional</guid>
+      <category>Infrastructure</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] How many seconds of Seedance 2.5 Flash free credits buy. (★187, —, created 2026-11-16)</description>
+      <description>[Infrastructure] Emissor de NFS-e direto na API do Sistema Nacional NFS-e, sem custo por nota, rodando na sua conta da Cloudflare. (★259, TypeScript, created 2026-11-12)</description>
     </item>
     <item>
-      <title>fujc683/seedance-2-5-flash-alternatives — ★174</title>
-      <link>https://github.com/fujc683/seedance-2-5-flash-alternatives</link>
-      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-alternatives</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Seedance 2.5 Flash vs Seedance 2.0, Kling 4.0 Flash and Veo 3. (★174, —, created 2026-11-16)</description>
-    </item>
-    <item>
-      <title>fujc683/seedance-2-5-flash-api — ★170</title>
-      <link>https://github.com/fujc683/seedance-2-5-flash-api</link>
-      <guid isPermaLink="true">https://github.com/fujc683/seedance-2-5-flash-api</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Seedance 2.5 Flash API: text-to-video endpoint, parameters and errors. (★170, —, created 2026-11-16)</description>
-    </item>
-    <item>
-      <title>restordinaryjoint/python-script-cradle — ★100</title>
+      <title>restordinaryjoint/python-script-cradle — ★99</title>
       <link>https://github.com/restordinaryjoint/python-script-cradle</link>
       <guid isPermaLink="true">https://github.com/restordinaryjoint/python-script-cradle</guid>
       <category>Dev tools</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Cradle of small Python automation scripts — files, mail, scraping. (★100, —, created 2026-11-15)</description>
+      <description>[Dev tools] Cradle of small Python automation scripts — files, mail, scraping. (★99, —, created 2026-11-15)</description>
     </item>
     <item>
       <title>grottosanninvoyage/k8s-homelab-sailor — ★99</title>
@@ -88,20 +272,20 @@
       <description>[Infrastructure] Curated docker-compose stash for self-hosted services. (★98, —, created 2026-11-15)</description>
     </item>
     <item>
-      <title>aryamandarda/tamserve — ★63</title>
+      <title>aryamandarda/tamserve — ★85</title>
       <link>https://github.com/aryamandarda/tamserve</link>
       <guid isPermaLink="true">https://github.com/aryamandarda/tamserve</guid>
       <category>AI tooling</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Live, multi-camera object tracking with SAM3, SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks. (★63, Python, created 2026-11-11)</description>
+      <description>[AI tooling] Live, multi-camera object tracking with SAM3, SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks. (★85, Python, created 2026-11-11)</description>
     </item>
     <item>
-      <title>Domush/antigravity-plugin-context-mode — ★56</title>
+      <title>Domush/antigravity-plugin-context-mode — ★60</title>
       <link>https://github.com/Domush/antigravity-plugin-context-mode</link>
       <guid isPermaLink="true">https://github.com/Domush/antigravity-plugin-context-mode</guid>
       <category>LLM / GenAI</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs, and multi-megabyte files from flooding your conversation history, saving thousands of tokens per turn and stopping "agent amnesia" in its tracks. (★56, JavaScript, created 2026-11-14)</description>
+      <description>[LLM / GenAI] Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs, and multi-megabyte files from flooding your conversation history, saving thousands of tokens per turn and stopping "agent amnesia" in its tracks. (★60, JavaScript, created 2026-11-14)</description>
     </item>
     <item>
       <title>kleinicke/fastforks — ★30</title>
@@ -112,52 +296,28 @@
       <description>[AI tooling] Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup (★30, Python, created 2026-11-03)</description>
     </item>
     <item>
-      <title>hitkeeen/blender-ai-mcp-addon — ★2.4k</title>
-      <link>https://github.com/hitkeeen/blender-ai-mcp-addon</link>
-      <guid isPermaLink="true">https://github.com/hitkeeen/blender-ai-mcp-addon</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (★2.4k, —, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>Dodaios/ste80-humanizer — ★755</title>
+      <title>Dodaios/ste80-humanizer — ★783</title>
       <link>https://github.com/Dodaios/ste80-humanizer</link>
       <guid isPermaLink="true">https://github.com/Dodaios/ste80-humanizer</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (★755, Python, created 2026-11-09)</description>
+      <description>[LLM / GenAI] STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared. (★783, Python, created 2026-11-09)</description>
     </item>
     <item>
-      <title>SAOS-3624/dsh-see-now — ★677</title>
+      <title>SAOS-3624/dsh-see-now — ★694</title>
       <link>https://github.com/SAOS-3624/dsh-see-now</link>
       <guid isPermaLink="true">https://github.com/SAOS-3624/dsh-see-now</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token (★677, JavaScript, created 2026-11-01)</description>
+      <description>[LLM / GenAI] 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token (★694, JavaScript, created 2026-11-01)</description>
     </item>
     <item>
-      <title>patch-gg/anymove — ★623</title>
-      <link>https://github.com/patch-gg/anymove</link>
-      <guid isPermaLink="true">https://github.com/patch-gg/anymove</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out. (★623, Python, created 2026-10-27)</description>
-    </item>
-    <item>
-      <title>YellowLaborerMarket/Gemini-Config-Checker- — ★474</title>
+      <title>YellowLaborerMarket/Gemini-Config-Checker- — ★475</title>
       <link>https://github.com/YellowLaborerMarket/Gemini-Config-Checker-</link>
       <guid isPermaLink="true">https://github.com/YellowLaborerMarket/Gemini-Config-Checker-</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★474, Makefile, created 2026-11-15)</description>
-    </item>
-    <item>
-      <title>weightcashiercupola/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/weightcashiercupola/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/weightcashiercupola/Gemini-Config-Checker-</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
+      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★475, Makefile, created 2026-11-15)</description>
     </item>
     <item>
       <title>WireProvostPucker/Gemini-Config-Checker- — ★473</title>
@@ -168,17 +328,17 @@
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>WindGatorRise37/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/WindGatorRise37/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/WindGatorRise37/Gemini-Config-Checker-</guid>
+      <title>weightcashiercupola/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/weightcashiercupola/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/weightcashiercupola/Gemini-Config-Checker-</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>WharfBoulderColander/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/WharfBoulderColander/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/WharfBoulderColander/Gemini-Config-Checker-</guid>
+      <title>WindGatorRise37/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/WindGatorRise37/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/WindGatorRise37/Gemini-Config-Checker-</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
@@ -200,9 +360,17 @@
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>weldbladesmithwharf/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/weldbladesmithwharf/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/weldbladesmithwharf/Gemini-Config-Checker-</guid>
+      <title>WinnerSpecialist/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/WinnerSpecialist/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/WinnerSpecialist/Gemini-Config-Checker-</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>WharfBoulderColander/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/WharfBoulderColander/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/WharfBoulderColander/Gemini-Config-Checker-</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
@@ -224,12 +392,20 @@
       <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>WinnerSpecialist/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/WinnerSpecialist/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/WinnerSpecialist/Gemini-Config-Checker-</guid>
+      <title>VisionWormStudio/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/VisionWormStudio/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/VisionWormStudio/Gemini-Config-Checker-</guid>
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
+      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Go, created 2026-11-15)</description>
+    </item>
+    <item>
+      <title>WestLocksmithSpout/Gemini-Config-Checker- — ★473</title>
+      <link>https://github.com/WestLocksmithSpout/Gemini-Config-Checker-</link>
+      <guid isPermaLink="true">https://github.com/WestLocksmithSpout/Gemini-Config-Checker-</guid>
+      <category>LLM / GenAI</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[LLM / GenAI] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Go, created 2026-11-15)</description>
     </item>
     <item>
       <title>Visionbeyondtrack/Gemini-Config-Checker- — ★473</title>
@@ -240,22 +416,6 @@
       <description>[AI tooling] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>WestLocksmithSpout/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/WestLocksmithSpout/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/WestLocksmithSpout/Gemini-Config-Checker-</guid>
-      <category>AI tooling</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Go, created 2026-11-15)</description>
-    </item>
-    <item>
-      <title>VisionWormStudio/Gemini-Config-Checker- — ★473</title>
-      <link>https://github.com/VisionWormStudio/Gemini-Config-Checker-</link>
-      <guid isPermaLink="true">https://github.com/VisionWormStudio/Gemini-Config-Checker-</guid>
-      <category>AI tooling</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Go, created 2026-11-15)</description>
-    </item>
-    <item>
       <title>VortexHostFeel/Gemini-Config-Checker- — ★473</title>
       <link>https://github.com/VortexHostFeel/Gemini-Config-Checker-</link>
       <guid isPermaLink="true">https://github.com/VortexHostFeel/Gemini-Config-Checker-</guid>
@@ -264,12 +424,20 @@
       <description>[AI tooling] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) (★473, Makefile, created 2026-11-15)</description>
     </item>
     <item>
-      <title>hhtower/price-comparison — ★316</title>
+      <title>hhtower/price-comparison — ★321</title>
       <link>https://github.com/hhtower/price-comparison</link>
       <guid isPermaLink="true">https://github.com/hhtower/price-comparison</guid>
       <category>Infrastructure</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details. (★316, TypeScript, created 2026-10-28)</description>
+      <description>[Infrastructure] AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details. (★321, TypeScript, created 2026-10-28)</description>
+    </item>
+    <item>
+      <title>jackulau/coding.sh — ★117</title>
+      <link>https://github.com/jackulau/coding.sh</link>
+      <guid isPermaLink="true">https://github.com/jackulau/coding.sh</guid>
+      <category>Infrastructure</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>[Infrastructure] Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost. (★117, TypeScript, created 2026-11-07)</description>
     </item>
     <item>
       <title>Kimberlying/ai-engineering-interview-100 — ★111</title>
@@ -278,14 +446,6 @@
       <category>LLM / GenAI</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>[LLM / GenAI] 100 Questions That Haunt AI Engineering Interviews in 2026: From production incidents to system designs, featuring diagnostic playbooks &amp; 7 end-to-end architectures. (★111, Python, created 2026-10-28)</description>
-    </item>
-    <item>
-      <title>jackulau/coding.sh — ★105</title>
-      <link>https://github.com/jackulau/coding.sh</link>
-      <guid isPermaLink="true">https://github.com/jackulau/coding.sh</guid>
-      <category>Infrastructure</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost. (★105, TypeScript, created 2026-11-07)</description>
     </item>
     <item>
       <title>Timaga/noda-local-ai-notes — ★104</title>
@@ -312,180 +472,20 @@
       <description>[LLM / GenAI] IdeaTaste - A benchmark for research taste: let LLM agents propose research ideas, then check how many of them the research area actually went on to do. (★33, Python, created 2026-11-01)</description>
     </item>
     <item>
-      <title>mit-han-lab/EvolvingInfra — ★90</title>
+      <title>mit-han-lab/EvolvingInfra — ★132</title>
       <link>https://github.com/mit-han-lab/EvolvingInfra</link>
       <guid isPermaLink="true">https://github.com/mit-han-lab/EvolvingInfra</guid>
       <category>LLM / GenAI</category>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] A inference framework that adapt to diverse and dynamic agent workload (★90, Python, created 2026-11-10)</description>
+      <description>[LLM / GenAI] A inference framework that adapt to diverse and dynamic agent workload (★132, Python, created 2026-11-10)</description>
     </item>
     <item>
-      <title>martian56/tessery — ★49</title>
+      <title>martian56/tessery — ★50</title>
       <link>https://github.com/martian56/tessery</link>
       <guid isPermaLink="true">https://github.com/martian56/tessery</guid>
       <category>Infrastructure</category>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Self-hosted platform to design software systems visually, generate their code and deploy them from development to production. (★49, TypeScript, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>DasCondor/kubefactory — ★44</title>
-      <link>https://github.com/DasCondor/kubefactory</link>
-      <guid isPermaLink="true">https://github.com/DasCondor/kubefactory</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] A first-person factory game that views and manages your Kubernetes clusters and Docker containers (★44, GDScript, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>sourpatchdad/patchboard — ★40</title>
-      <link>https://github.com/sourpatchdad/patchboard</link>
-      <guid isPermaLink="true">https://github.com/sourpatchdad/patchboard</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Self-hosted homelab dashboard and start page. Finds your Docker apps, shows what needs you, and puts the fix one click away: containers, Sonarr, Radarr, downloads, Home Assistant, wall tablets and e-ink. (★40, TypeScript, created 2026-11-04)</description>
-    </item>
-    <item>
-      <title>simranjeet97/AI_Engineer_Roadmap_2027 — ★37</title>
-      <link>https://github.com/simranjeet97/AI_Engineer_Roadmap_2027</link>
-      <guid isPermaLink="true">https://github.com/simranjeet97/AI_Engineer_Roadmap_2027</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] A 10-week, staff-level curriculum and engineering roadmap focused on LLM inference systems, serving physics, custom kernels, disaggregated architectures, and production optimization. (★37, Jupyter Notebook, created 2026-11-07)</description>
-    </item>
-    <item>
-      <title>Vesuvio1/display-fusion — ★1.2k</title>
-      <link>https://github.com/Vesuvio1/display-fusion</link>
-      <guid isPermaLink="true">https://github.com/Vesuvio1/display-fusion</guid>
-      <category>Dev tools</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Display Fusion 2026 standalone desktop setup with complete feature configuration (★1.2k, HTML, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>hyperionaidev/smolmaxxing — ★916</title>
-      <link>https://github.com/hyperionaidev/smolmaxxing</link>
-      <guid isPermaLink="true">https://github.com/hyperionaidev/smolmaxxing</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] maxxing the ability to run different LLMs on the smallest devices possible (★916, C, created 2026-11-04)</description>
-    </item>
-    <item>
-      <title>rivet-dev/open-orange — ★645</title>
-      <link>https://github.com/rivet-dev/open-orange</link>
-      <guid isPermaLink="true">https://github.com/rivet-dev/open-orange</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers. (★645, TypeScript, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>duyunzhoudyz/dyz-med-paper-skills — ★370</title>
-      <link>https://github.com/duyunzhoudyz/dyz-med-paper-skills</link>
-      <guid isPermaLink="true">https://github.com/duyunzhoudyz/dyz-med-paper-skills</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] 面向中国医生与医学研究生的医学论文写作 Agent Skills：32 个技能覆盖 PubMed 文献检索、统计分析、中英写作、选刊投稿与审稿修回，适用于 Claude Code、Codex。Medical writing skills for Claude Code &amp; Codex. (★370, Python, created 2026-11-01)</description>
-    </item>
-    <item>
-      <title>spacesky-cell/TwinFix — ★130</title>
-      <link>https://github.com/spacesky-cell/TwinFix</link>
-      <guid isPermaLink="true">https://github.com/spacesky-cell/TwinFix</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] TwinFix — AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. 在一次性孪生环境中自动诊断、复现并修复故障的 AI Agent。 (★130, Python, created 2026-11-13)</description>
-    </item>
-    <item>
-      <title>ATLURI0001/target-reconciliation-service — ★54</title>
-      <link>https://github.com/ATLURI0001/target-reconciliation-service</link>
-      <guid isPermaLink="true">https://github.com/ATLURI0001/target-reconciliation-service</guid>
-      <category>Infrastructure</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Kubernetes-native reliability control plane orchestrating policy-driven reconciliation, automated workload recovery, failure remediation, and auditable infrastructure operations. (★54, Go, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>kcgeekedup-hash/delta-force-trainer-tool — ★1.2k</title>
-      <link>https://github.com/kcgeekedup-hash/delta-force-trainer-tool</link>
-      <guid isPermaLink="true">https://github.com/kcgeekedup-hash/delta-force-trainer-tool</guid>
-      <category>Dev tools</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations (★1.2k, HTML, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>Elegantic/designcenter-nx-desktop — ★1.2k</title>
-      <link>https://github.com/Elegantic/designcenter-nx-desktop</link>
-      <guid isPermaLink="true">https://github.com/Elegantic/designcenter-nx-desktop</guid>
-      <category>Dev tools</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Designcenter-NX: Full-Feature Desktop Installer for Immediate Deployment (★1.2k, HTML, created 2026-11-06)</description>
-    </item>
-    <item>
-      <title>serveroshq/panel — ★1.1k</title>
-      <link>https://github.com/serveroshq/panel</link>
-      <guid isPermaLink="true">https://github.com/serveroshq/panel</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] The open source ServerOS panel: one place to run the Linux servers you already own. (★1.1k, PHP, created 2026-11-09)</description>
-    </item>
-    <item>
-      <title>jackson-cmd/risk-aware-trading-agents — ★210</title>
-      <link>https://github.com/jackson-cmd/risk-aware-trading-agents</link>
-      <guid isPermaLink="true">https://github.com/jackson-cmd/risk-aware-trading-agents</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测 · LLM 榜单 (★210, Python, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>IluvatarLabs/sitrep — ★92</title>
-      <link>https://github.com/IluvatarLabs/sitrep</link>
-      <guid isPermaLink="true">https://github.com/IluvatarLabs/sitrep</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you. (★92, TypeScript, created 2026-11-12)</description>
-    </item>
-    <item>
-      <title>BalthDreadgrid20608/events-rpocket-tracker — ★82</title>
-      <link>https://github.com/BalthDreadgrid20608/events-rpocket-tracker</link>
-      <guid isPermaLink="true">https://github.com/BalthDreadgrid20608/events-rpocket-tracker</guid>
-      <category>LLM / GenAI</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[LLM / GenAI] Team calendar &amp; tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule. (★82, —, created 2026-11-05)</description>
-    </item>
-    <item>
-      <title>Vespermagnet/jet-reports-skill-rpocket — ★80</title>
-      <link>https://github.com/Vespermagnet/jet-reports-skill-rpocket</link>
-      <guid isPermaLink="true">https://github.com/Vespermagnet/jet-reports-skill-rpocket</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Claude Code skill: describe a Jet Reports workbook, get a ready-to-run .xlsx (for example NAV / Business Central) (★80, HTML, created 2026-11-05)</description>
-    </item>
-    <item>
-      <title>PuzzleomJade/pursr-rpocket — ★76</title>
-      <link>https://github.com/PuzzleomJade/pursr-rpocket</link>
-      <guid isPermaLink="true">https://github.com/PuzzleomJade/pursr-rpocket</guid>
-      <category>Dev tools</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Dev tools] Visual QA, browser automation, accessibility auditing, screenshot diffing, and MCP tooling for coding agents. (★76, HTML, created 2026-11-05)</description>
-    </item>
-    <item>
-      <title>SealarMeteor/telegram-channel-rpocket-forwarder-ai — ★54</title>
-      <link>https://github.com/SealarMeteor/telegram-channel-rpocket-forwarder-ai</link>
-      <guid isPermaLink="true">https://github.com/SealarMeteor/telegram-channel-rpocket-forwarder-ai</guid>
-      <category>AI tooling</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[AI tooling] Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows. (★54, HTML, created 2026-10-31)</description>
-    </item>
-    <item>
-      <title>melgoldstein/agent-blackbox — ★47</title>
-      <link>https://github.com/melgoldstein/agent-blackbox</link>
-      <guid isPermaLink="true">https://github.com/melgoldstein/agent-blackbox</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] Local flight recorder for AI workflows: inspect tool calls, replay recorded evidence, and fork decisions from checkpoints. (★47, Python, created 2026-10-31)</description>
-    </item>
-    <item>
-      <title>sundo99/glance-homelab — ★40</title>
-      <link>https://github.com/sundo99/glance-homelab</link>
-      <guid isPermaLink="true">https://github.com/sundo99/glance-homelab</guid>
-      <category>Infrastructure</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>[Infrastructure] A phone-first Glance dashboard for a self-hosted home: animated weather, Home Assistant, media, NAS status, Paperless search, offline Mealie list (★40, Python, created 2026-11-01)</description>
+      <description>[Infrastructure] Self-hosted platform to design software systems visually, generate their code and deploy them from development to production. (★50, TypeScript, created 2026-11-12)</description>
     </item>
   </channel>
 </rss>
